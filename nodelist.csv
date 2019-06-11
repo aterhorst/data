@@ -4,182 +4,161 @@
 "3","Aged Care Quality and Safety Commission",FALSE,2014-07-01,2020-06-30
 "4","Asbestos Safety and Eradication Agency",FALSE,2014-07-01,2020-06-30
 "5","Attorney-General's Department",TRUE,2014-07-01,2020-06-30
-"6","Australia Council",FALSE,2014-07-01,2020-06-30
-"7","Australian Aged Care Quality Agency",FALSE,2014-07-01,2019-06-30
-"8","Australian Broadcasting Corporation",FALSE,2014-07-01,2020-06-30
-"9","Australian Building and Construction Commission",FALSE,2014-07-01,2020-06-30
-"10","Australian Bureau of Statistics",FALSE,2014-07-01,2020-06-30
-"11","Australian Centre for International Agricultural Research",FALSE,2014-07-01,2020-06-30
-"12","Australian Commission for Law Enforcement Integrity",FALSE,2014-07-01,2020-06-30
-"13","Australian Commission on Safety and Quality in Health Care",FALSE,2014-07-01,2020-06-30
-"14","Australian Communications and Media Authority",FALSE,2014-07-01,2020-06-30
-"15","Australian Competition and Consumer Commission",FALSE,2014-07-01,2020-06-30
-"16","Australian Crime Commission",FALSE,2014-07-01,2019-06-30
+"6","Australia Business Arts Foundation",FALSE,2016-07-01,2020-06-30
+"7","Australia Council",FALSE,2016-07-01,2020-06-30
+"8","Australian Aged Care Quality Agency",FALSE,2014-07-01,2019-06-30
+"9","Australian Broadcasting Corporation",FALSE,2016-07-01,2020-06-30
+"10","Australian Building and Construction Commission",FALSE,2014-07-01,2020-06-30
+"11","Australian Bureau of Statistics",FALSE,2014-07-01,2020-06-30
+"12","Australian Centre for International Agricultural Research",FALSE,2014-07-01,2020-06-30
+"13","Australian Commission for Law Enforcement Integrity",FALSE,2014-07-01,2020-06-30
+"14","Australian Commission on Safety and Quality in Health Care",FALSE,2014-07-01,2020-06-30
+"15","Australian Communications and Media Authority",FALSE,2016-07-01,2020-06-30
+"16","Australian Competition and Consumer Commission",FALSE,2014-07-01,2020-06-30
 "17","Australian Criminal Intelligence Commission",FALSE,2014-07-01,2020-06-30
-"18","Australian Curriculum, Assessment and Reporting Authority",FALSE,2014-07-01,2020-06-30
-"19","Australian Customs and Border Protection Service",FALSE,2014-07-01,2018-06-30
-"20","Australian Digital Health Agency",FALSE,2014-07-01,2020-06-30
-"21","Australian Electoral Commission",FALSE,2014-07-01,2020-06-30
-"22","Australian Federal Police",FALSE,2014-07-01,2020-06-30
-"23","Australian Film, Television and Radio School",FALSE,2014-07-01,2020-06-30
-"24","Australian Financial Security Authority",FALSE,2014-07-01,2020-06-30
-"25","Australian Fisheries Management Authority",FALSE,2014-07-01,2020-06-30
-"26","Australian Grape and Wine Authority",FALSE,2014-07-01,2019-06-30
-"27","Australian Human Rights Commission",FALSE,2014-07-01,2020-06-30
-"28","Australian Institute for Teaching and School Leadership Limited",FALSE,2014-07-01,2020-06-30
-"29","Australian Institute of Aboriginal and Torres Strait Islander Studies",FALSE,2014-07-01,2020-06-30
-"30","Australian Institute of Criminology",FALSE,2014-07-01,2020-06-30
-"31","Australian Institute of Family Studies",FALSE,2014-07-01,2020-06-30
-"32","Australian Institute of Health and Welfare",FALSE,2014-07-01,2020-06-30
-"33","Australian Institute of Marine Science",FALSE,2014-07-01,2020-06-30
-"34","Australian Law Reform Commission",FALSE,2014-07-01,2020-06-30
-"35","Australian Maritime Safety Authority",FALSE,2014-07-01,2020-06-30
-"36","Australian National Audit Office",FALSE,2014-07-01,2020-06-30
-"37","Australian National Maritime Museum",FALSE,2014-07-01,2020-06-30
-"38","Australian National Preventive Health Agency",FALSE,2014-07-01,2020-06-30
-"39","Australian Nuclear Science and Technology Organisation",FALSE,2014-07-01,2020-06-30
-"40","Australian Office of Financial Management",FALSE,2014-07-01,2020-06-30
-"41","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,2014-07-01,2019-06-30
-"42","Australian Pesticides and Veterinary Medicines Authority",FALSE,2014-07-01,2020-06-30
-"43","Australian Prudential Regulation Authority",FALSE,2014-07-01,2020-06-30
-"44","Australian Public Service Commission",FALSE,2014-07-01,2020-06-30
-"45","Australian Radiation Protection and Nuclear Safety Agency",FALSE,2014-07-01,2020-06-30
-"46","Australian Renewable Energy Agency",FALSE,2014-07-01,2020-06-30
-"47","Australian Research Council",FALSE,2014-07-01,2020-06-30
-"48","Australian Secret Intelligence Service",FALSE,2014-07-01,2020-06-30
-"49","Australian Securities and Investments Commission",FALSE,2014-07-01,2020-06-30
-"50","Australian Security Intelligence Organisation",FALSE,2014-07-01,2020-06-30
-"51","Australian Signals Directorate",FALSE,2014-07-01,2020-06-30
-"52","Australian Sports Anti-Doping Authority",FALSE,2014-07-01,2020-06-30
-"53","Australian Sports Commission",FALSE,2014-07-01,2020-06-30
-"54","Australian Taxation Office",FALSE,2014-07-01,2020-06-30
-"55","Australian Trade and Investment Commission",FALSE,2014-07-01,2020-06-30
-"56","Australian Trade Commission",FALSE,2014-07-01,2019-06-30
-"57","Australian Transaction Reports and Analysis Centre",FALSE,2014-07-01,2020-06-30
-"58","Australian Transport Safety Bureau",FALSE,2014-07-01,2020-06-30
-"59","Australian War Memorial",FALSE,2014-07-01,2020-06-30
-"60","Bundanon Trust",FALSE,2014-07-01,2020-06-30
-"61","Bureau of Meteorology",FALSE,2014-07-01,2020-06-30
-"62","Cancer Australia",FALSE,2014-07-01,2020-06-30
-"63","Civil Aviation Safety Authority",FALSE,2014-07-01,2020-06-30
-"64","Clean Energy Finance Corporation",FALSE,2014-07-01,2020-06-30
-"65","Clean Energy Regulator",FALSE,2014-07-01,2020-06-30
-"66","Climate Change Authority",FALSE,2014-07-01,2020-06-30
-"67","Comcare",FALSE,2014-07-01,2020-06-30
-"68","Commonwealth Grants Commission",FALSE,2014-07-01,2020-06-30
-"69","Commonwealth Scientific and Industrial Research Organisation",FALSE,2014-07-01,2020-06-30
-"70","Commonwealth Superannuation Corporation",FALSE,2014-07-01,2020-06-30
-"71","Comsuper",FALSE,2014-07-01,2019-06-30
-"72","Corporations and Markets Advisory Committee",FALSE,2014-07-01,2019-06-30
-"73","Cotton Research and Development Corporation",FALSE,2014-07-01,2020-06-30
-"74","CrimTrac Agency",FALSE,2014-07-01,2019-06-30
-"75","Defence Housing Australia",FALSE,2014-07-01,2020-06-30
-"76","Defence Materiel Organisation",FALSE,2014-07-01,2019-06-30
-"77","Department of Agriculture",TRUE,2014-07-01,2020-06-30
-"78","Department of Agriculture and Water Resources",TRUE,2014-07-01,2020-06-30
-"79","Department of Communications",TRUE,2014-07-01,2016-06-30
-"80","Department of Communications and the Arts",TRUE,2016-07-01,2020-06-30
-"81","Department of Defence",TRUE,2014-07-01,2020-06-30
-"82","Department of Education",TRUE,2014-07-01,2020-06-30
-"83","Department of Education and Training",TRUE,2014-07-01,2020-06-30
-"84","Department of Employment",TRUE,2014-07-01,2018-06-30
-"85","Department of Finance",TRUE,2014-07-01,2020-06-30
-"86","Department of Foreign Affairs and Trade",TRUE,2014-07-01,2020-06-30
-"87","Department of Health",TRUE,2014-07-01,2020-06-30
-"88","Department of Home Affairs",TRUE,2018-07-01,2020-06-30
-"89","Department of Human Services",TRUE,2014-07-01,2019-06-30
-"90","Department of Immigration and Border Protection",TRUE,2014-07-01,2018-06-30
-"91","Department of Industry",TRUE,2014-07-01,2015-06-30
-"92","Department of Industry and Science",TRUE,2014-07-01,2020-06-30
-"93","Department of Industry, Innovation and Science",TRUE,2016-07-01,2020-06-30
-"94","Department of Infrastructure and Regional Development",TRUE,2014-07-01,2018-06-30
-"95","Department of Infrastructure, Regional Development and Cities",TRUE,2014-07-01,2020-06-30
-"96","Department of Jobs and Small Business",TRUE,2014-07-01,2020-06-30
-"97","Department of Social Services",TRUE,2014-07-01,2020-06-30
-"98","Department of the Environment",TRUE,2014-07-01,2016-06-30
-"99","Department of the Environment and Energy",TRUE,2017-07-01,2020-06-30
-"100","Department of the Prime Minister and Cabinet",FALSE,2014-07-01,2020-06-30
-"101","Department of the Treasury",TRUE,2014-07-01,2020-06-30
-"102","Department of Veterans' Affairs",TRUE,2014-07-01,2020-06-30
-"103","Digital Transformation Agency",FALSE,2014-07-01,2020-06-30
-"104","Digital Transformation Office",FALSE,2014-07-01,2019-06-30
-"105","Director of National Parks",FALSE,2014-07-01,2020-06-30
-"106","Fair Work Commission",FALSE,2014-07-01,2020-06-30
-"107","Fair Work Ombudsman and Registered Organisations Commission Entity",FALSE,2014-07-01,2020-06-30
-"108","Family Court and Federal Circuit Court",FALSE,2014-07-01,2019-06-30
-"109","Federal Court of Australia",FALSE,2014-07-01,2020-06-30
-"110","Financial Adviser Standards and Ethics Authority Ltd",FALSE,2014-07-01,2020-06-30
-"111","Fisheries Research and Development Corporation",FALSE,2014-07-01,2020-06-30
-"112","Food Standards Australia New Zealand",FALSE,2014-07-01,2020-06-30
-"113","Future Fund Management Agency",FALSE,2014-07-01,2020-06-30
-"114","General Practice Education and Training Limited",FALSE,2014-07-01,2019-06-30
-"115","Geoscience Australia",FALSE,2014-07-01,2020-06-30
-"116","Grains Research and Development Corporation",FALSE,2014-07-01,2020-06-30
-"117","Great Barrier Reef Marine Park Authority",FALSE,2014-07-01,2020-06-30
-"118","Independent Hospital Pricing Authority",FALSE,2014-07-01,2020-06-30
-"119","Independent Parliamentary Expenses Authority",FALSE,2014-07-01,2020-06-30
-"120","Indigenous Business Australia",FALSE,2014-07-01,2020-06-30
-"121","Indigenous Land and Sea Corporation",FALSE,2019-07-01,2020-06-30
-"122","Indigenous Land Corporation",FALSE,2014-07-01,2019-06-30
-"123","Infrastructure and Project Financing Agency",FALSE,2014-07-01,2020-06-30
-"124","Infrastructure Australia",FALSE,2014-07-01,2020-06-30
-"125","Inspector-General of Taxation",FALSE,2014-07-01,2020-06-30
-"126","IP Australia",FALSE,2014-07-01,2020-06-30
-"127","Migration Review Tribunal and Refugee Review Tribunal",FALSE,2014-07-01,2018-06-30
-"128","Murray-Darling Basin Authority",FALSE,2014-07-01,2020-06-30
-"129","Museum of Australian Democracy at Old Parliament House",FALSE,2014-07-01,2019-06-30
-"130","National Archives of Australia",FALSE,2014-07-01,2020-06-30
-"131","National Australia Day Council Limited",FALSE,2014-07-01,2020-06-30
-"132","National Blood Authority",FALSE,2014-07-01,2020-06-30
-"133","National Capital Authority",FALSE,2014-07-01,2020-06-30
-"134","National Competition Council",FALSE,2014-07-01,2020-06-30
-"135","National Disability Insurance Agency",FALSE,2014-07-01,2019-06-30
-"136","National Disability Insurance Scheme Launch Transition Agency",FALSE,2014-07-01,2020-06-30
-"137","National Film and Sound Archive of Australia",FALSE,2014-07-01,2020-06-30
-"138","National Gallery of Australia",FALSE,2014-07-01,2020-06-30
-"139","National Health and Medical Research Council",FALSE,2014-07-01,2020-06-30
-"140","National Health Funding Body",FALSE,2014-07-01,2020-06-30
-"141","National Health Performance Authority",FALSE,2014-07-01,2019-06-30
-"142","National Housing Finance and Investment Corporation",FALSE,2014-07-01,2020-06-30
-"143","National Library of Australia",FALSE,2014-07-01,2020-06-30
-"144","National Mental Health Commission",FALSE,2014-07-01,2020-06-30
-"145","National Museum of Australia",FALSE,2014-07-01,2020-06-30
-"146","National Offshore Petroleum Safety and Environmental Management Authority",FALSE,2014-07-01,2020-06-30
-"147","National Portrait Gallery of Australia",FALSE,2014-07-01,2020-06-30
-"148","National Transport Commission",FALSE,2014-07-01,2020-06-30
-"149","National Water Commission",FALSE,2014-07-01,2016-06-30
-"150","NDIS Quality and Safeguards Commission",FALSE,2014-07-01,2020-06-30
-"151","North Queensland Livestock Industry Recovery Agency",FALSE,2019-07-01,2020-06-30
-"152","North Queensland Water Infrastructure Authority",FALSE,2019-07-01,2020-06-30
-"153","Northern Australia Infrastructure Facility",FALSE,2016-07-01,2020-06-30
-"154","Office of National Assessments",FALSE,2014-07-01,2019-06-30
-"155","Office of National Intelligence",FALSE,2014-07-01,2020-06-30
-"156","Office of Parliamentary Counsel",FALSE,2014-07-01,2020-06-30
-"157","Office of the Auditing and Assurance Standards Board",FALSE,2014-07-01,2020-06-30
-"158","Office of the Australian Accounting Standards Board",FALSE,2014-07-01,2020-06-30
-"159","Office of the Australian Information Commissioner",FALSE,2014-07-01,2020-06-30
-"160","Office of the Commonwealth Ombudsman",FALSE,2014-07-01,2020-06-30
-"161","Office of the Director of Public Prosecutions",FALSE,2014-07-01,2020-06-30
-"162","Office of the Fair Work Building Industry Inspectorate",FALSE,2014-07-01,2018-06-30
-"163","Office of the Fair Work Ombudsman",FALSE,2014-07-01,2018-06-30
-"164","Office of the Inspector-General of Intelligence and Security",FALSE,2014-07-01,2020-06-30
-"165","Office of the Official Secretary to the Governor-General",FALSE,2014-07-01,2020-06-30
-"166","Outback Stores Pty Ltd",FALSE,2014-07-01,2020-06-30
-"167","Private Health Insurance Administration Council",FALSE,2014-07-01,2019-06-30
-"168","Private Health Insurance Ombudsman",FALSE,2014-07-01,2019-06-30
-"169","Productivity Commission",FALSE,2014-07-01,2020-06-30
-"170","Professional Services Review",FALSE,2014-07-01,2020-06-30
-"171","Regional Investment Corporation",FALSE,2016-07-01,2020-06-30
-"172","Royal Australian Mint",FALSE,2014-07-01,2020-06-30
-"173","Rural Industries Research and Development Corporation",FALSE,2014-07-01,2020-06-30
-"174","Safe Work Australia",FALSE,2014-07-01,2020-06-30
-"175","Screen Australia",FALSE,2014-07-01,2020-06-30
-"176","Seafarers Safety, Rehabilitation and Compensation Authority",FALSE,2014-07-01,2020-06-30
-"177","Special Broadcasting Service Corporation",FALSE,2014-07-01,2020-06-30
-"178","Sydney Harbour Federation Trust",FALSE,2014-07-01,2020-06-30
-"179","Telecommunications Universal Service Management Agency",FALSE,2014-07-01,2016-06-30
-"180","Tertiary Education Quality and Standards Agency",FALSE,2014-07-01,2020-06-30
-"181","Torres Strait Regional Authority",FALSE,2014-07-01,2020-06-30
-"182","Tourism Australia",FALSE,2014-07-01,2020-06-30
-"183","Wine Australia",FALSE,2016-07-01,2020-06-30
-"184","Workplace Gender Equality Agency",FALSE,2014-07-01,2020-06-30
+"18","Australian Curriculum, Assessment and Reporting Authority",FALSE,2015-07-01,2020-06-30
+"19","Australian Digital Health Agency",FALSE,2014-07-01,2020-06-30
+"20","Australian Electoral Commission",FALSE,2014-07-01,2020-06-30
+"21","Australian Federal Police",FALSE,2014-07-01,2020-06-30
+"22","Australian Film, Television and Radio School",FALSE,2016-07-01,2020-06-30
+"23","Australian Financial Security Authority",FALSE,2014-07-01,2020-06-30
+"24","Australian Fisheries Management Authority",FALSE,2016-07-01,2020-06-30
+"25","Australian Grape and Wine Authority",FALSE,2014-07-01,2020-06-30
+"26","Australian Human Rights Commission",FALSE,2014-07-01,2020-06-30
+"27","Australian Institute for Teaching and School Leadership Limited",FALSE,2015-07-01,2020-06-30
+"28","Australian Institute of Aboriginal and Torres Strait Islander Studies",FALSE,2014-07-01,2020-06-30
+"29","Australian Institute of Criminology",FALSE,2014-07-01,2020-06-30
+"30","Australian Institute of Family Studies",FALSE,2014-07-01,2020-06-30
+"31","Australian Institute of Health and Welfare",FALSE,2014-07-01,2020-06-30
+"32","Australian Institute of Marine Science",FALSE,2016-07-01,2020-06-30
+"33","Australian Law Reform Commission",FALSE,2014-07-01,2020-06-30
+"34","Australian Maritime Safety Authority",FALSE,2014-07-01,2020-06-30
+"35","Australian National Audit Office",FALSE,2014-07-01,2020-06-30
+"36","Australian National Maritime Museum",FALSE,2016-07-01,2020-06-30
+"37","Australian National Preventive Health Agency",FALSE,2014-07-01,2020-06-30
+"38","Australian Nuclear Science and Technology Organisation",FALSE,2016-07-01,2020-06-30
+"39","Australian Office of Financial Management",FALSE,2014-07-01,2020-06-30
+"40","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,2014-07-01,2019-06-30
+"41","Australian Pesticides and Veterinary Medicines Authority",FALSE,2016-07-01,2020-06-30
+"42","Australian Prudential Regulation Authority",FALSE,2014-07-01,2020-06-30
+"43","Australian Public Service Commission",FALSE,2014-07-01,2020-06-30
+"44","Australian Radiation Protection and Nuclear Safety Agency",FALSE,2014-07-01,2020-06-30
+"45","Australian Renewable Energy Agency",FALSE,2017-07-01,2020-06-30
+"46","Australian Research Council",FALSE,2015-07-01,2020-06-30
+"47","Australian Secret Intelligence Service",FALSE,2014-07-01,2020-06-30
+"48","Australian Securities and Investments Commission",FALSE,2014-07-01,2020-06-30
+"49","Australian Security Intelligence Organisation",FALSE,2014-07-01,2020-06-30
+"50","Australian Signals Directorate",FALSE,2014-07-01,2020-06-30
+"51","Australian Sports Anti-Doping Authority",FALSE,2014-07-01,2020-06-30
+"52","Australian Sports Commission",FALSE,2014-07-01,2020-06-30
+"53","Australian Taxation Office",FALSE,2014-07-01,2020-06-30
+"54","Australian Trade and Investment Commission",FALSE,2014-07-01,2020-06-30
+"55","Australian Transaction Reports and Analysis Centre",FALSE,2014-07-01,2020-06-30
+"56","Australian Transport Safety Bureau",FALSE,2014-07-01,2020-06-30
+"57","Australian War Memorial",FALSE,2014-07-01,2020-06-30
+"58","Bundanon Trust",FALSE,2016-07-01,2020-06-30
+"59","Bureau of Meteorology",FALSE,2017-07-01,2020-06-30
+"60","Cancer Australia",FALSE,2014-07-01,2020-06-30
+"61","Civil Aviation Safety Authority",FALSE,2014-07-01,2020-06-30
+"62","Clean Energy Finance Corporation",FALSE,2017-07-01,2020-06-30
+"63","Clean Energy Regulator",FALSE,2017-07-01,2020-06-30
+"64","Climate Change Authority",FALSE,2017-07-01,2020-06-30
+"65","Comcare",FALSE,2014-07-01,2020-06-30
+"66","Commonwealth Grants Commission",FALSE,2014-07-01,2020-06-30
+"67","Commonwealth Scientific and Industrial Research Organisation",FALSE,2016-07-01,2020-06-30
+"68","Commonwealth Superannuation Corporation",FALSE,2014-07-01,2020-06-30
+"69","Corporations and Markets Advisory Committee",FALSE,2014-07-01,2019-06-30
+"70","Cotton Research and Development Corporation",FALSE,2016-07-01,2020-06-30
+"71","Defence Housing Australia",FALSE,2014-07-01,2020-06-30
+"72","Department of Agriculture",TRUE,2019-07-01,2020-06-30
+"73","Department of Agriculture and Water Resources",TRUE,2014-07-01,2020-06-30
+"74","Department of Communications and the Arts",TRUE,2016-07-01,2020-06-30
+"75","Department of Defence",TRUE,2014-07-01,2020-06-30
+"76","Department of Education",TRUE,2019-07-01,2020-06-30
+"77","Department of Education and Training",TRUE,2014-07-01,2020-06-30
+"78","Department of Employment",TRUE,2014-07-01,2018-06-30
+"79","Department of Finance",TRUE,2014-07-01,2020-06-30
+"80","Department of Foreign Affairs and Trade",TRUE,2014-07-01,2020-06-30
+"81","Department of Health",TRUE,2014-07-01,2020-06-30
+"82","Department of Home Affairs",TRUE,2018-07-01,2020-06-30
+"83","Department of Human Services",TRUE,2014-07-01,2019-06-30
+"84","Department of Immigration and Border Protection",TRUE,2014-07-01,2018-06-30
+"85","Department of Industry, Innovation and Science",TRUE,2016-07-01,2020-06-30
+"86","Department of Infrastructure and Regional Development",TRUE,2014-07-01,2018-06-30
+"87","Department of Infrastructure, Regional Development and Cities",TRUE,2014-07-01,2020-06-30
+"88","Department of Jobs and Small Business",TRUE,2014-07-01,2020-06-30
+"89","Department of Social Services",TRUE,2014-07-01,2020-06-30
+"90","Department of the Environment and Energy",TRUE,2017-07-01,2020-06-30
+"91","Department of the Prime Minister and Cabinet",FALSE,2014-07-01,2020-06-30
+"92","Department of the Treasury",TRUE,2014-07-01,2020-06-30
+"93","Department of Veterans' Affairs",TRUE,2014-07-01,2020-06-30
+"94","Digital Transformation Agency",FALSE,2014-07-01,2020-06-30
+"95","Director of National Parks",FALSE,2017-07-01,2020-06-30
+"96","Fair Work Commission",FALSE,2014-07-01,2020-06-30
+"97","Fair Work Ombudsman and Registered Organisations Commission Entity",FALSE,2014-07-01,2020-06-30
+"98","Federal Court of Australia",FALSE,2014-07-01,2020-06-30
+"99","Financial Adviser Standards and Ethics Authority Ltd",FALSE,2014-07-01,2020-06-30
+"100","Fisheries Research and Development Corporation",FALSE,2016-07-01,2020-06-30
+"101","Food Standards Australia New Zealand",FALSE,2014-07-01,2020-06-30
+"102","Future Fund Management Agency",FALSE,2014-07-01,2020-06-30
+"103","Geoscience Australia",FALSE,2016-07-01,2020-06-30
+"104","Grains Research and Development Corporation",FALSE,2016-07-01,2020-06-30
+"105","Great Barrier Reef Marine Park Authority",FALSE,2017-07-01,2020-06-30
+"106","Independent Hospital Pricing Authority",FALSE,2014-07-01,2020-06-30
+"107","Independent Parliamentary Expenses Authority",FALSE,2014-07-01,2020-06-30
+"108","Indigenous Business Australia",FALSE,2014-07-01,2020-06-30
+"109","Indigenous Land and Sea Corporation",FALSE,2019-07-01,2020-06-30
+"110","Indigenous Land Corporation",FALSE,2014-07-01,2019-06-30
+"111","Infrastructure and Project Financing Agency",FALSE,2014-07-01,2020-06-30
+"112","Infrastructure Australia",FALSE,2014-07-01,2020-06-30
+"113","Inspector-General of Taxation",FALSE,2014-07-01,2020-06-30
+"114","IP Australia",FALSE,2016-07-01,2020-06-30
+"115","Murray-Darling Basin Authority",FALSE,2016-07-01,2020-06-30
+"116","Museum of Australian Democracy at Old Parliament House",FALSE,2014-07-01,2020-06-30
+"117","National Archives of Australia",FALSE,2014-07-01,2020-06-30
+"118","National Australia Day Council Limited",FALSE,2014-07-01,2020-06-30
+"119","National Blood Authority",FALSE,2014-07-01,2020-06-30
+"120","National Capital Authority",FALSE,2014-07-01,2020-06-30
+"121","National Competition Council",FALSE,2014-07-01,2020-06-30
+"122","National Disability Insurance Scheme Launch Transition Agency",FALSE,2014-07-01,2020-06-30
+"123","National Film and Sound Archive of Australia",FALSE,2016-07-01,2020-06-30
+"124","National Gallery of Australia",FALSE,2016-07-01,2020-06-30
+"125","National Health and Medical Research Council",FALSE,2014-07-01,2020-06-30
+"126","National Health Funding Body",FALSE,2014-07-01,2020-06-30
+"127","National Housing Finance and Investment Corporation",FALSE,2014-07-01,2020-06-30
+"128","National Library of Australia",FALSE,2016-07-01,2020-06-30
+"129","National Mental Health Commission",FALSE,2014-07-01,2020-06-30
+"130","National Museum of Australia",FALSE,2016-07-01,2020-06-30
+"131","National Offshore Petroleum Safety and Environmental Management Authority",FALSE,2016-07-01,2020-06-30
+"132","National Portrait Gallery of Australia",FALSE,2016-07-01,2020-06-30
+"133","National Transport Commission",FALSE,2014-07-01,2020-06-30
+"134","NDIS Quality and Safeguards Commission",FALSE,2014-07-01,2020-06-30
+"135","North Queensland Livestock Industry Recovery Agency",FALSE,2019-07-01,2020-06-30
+"136","North Queensland Water Infrastructure Authority",FALSE,2019-07-01,2020-06-30
+"137","Northern Australia Infrastructure Facility",FALSE,2016-07-01,2020-06-30
+"138","Office of National Assessments",FALSE,2014-07-01,2019-06-30
+"139","Office of National Intelligence",FALSE,2014-07-01,2020-06-30
+"140","Office of Parliamentary Counsel",FALSE,2014-07-01,2020-06-30
+"141","Office of the Auditing and Assurance Standards Board",FALSE,2014-07-01,2020-06-30
+"142","Office of the Australian Accounting Standards Board",FALSE,2014-07-01,2020-06-30
+"143","Office of the Australian Information Commissioner",FALSE,2014-07-01,2020-06-30
+"144","Office of the Commonwealth Ombudsman",FALSE,2014-07-01,2020-06-30
+"145","Office of the Director of Public Prosecutions",FALSE,2014-07-01,2020-06-30
+"146","Office of the Inspector-General of Intelligence and Security",FALSE,2014-07-01,2020-06-30
+"147","Office of the Official Secretary to the Governor-General",FALSE,2014-07-01,2020-06-30
+"148","Outback Stores Pty Ltd",FALSE,2014-07-01,2020-06-30
+"149","Productivity Commission",FALSE,2014-07-01,2020-06-30
+"150","Professional Services Review",FALSE,2014-07-01,2020-06-30
+"151","Regional Investment Corporation",FALSE,2016-07-01,2020-06-30
+"152","Royal Australian Mint",FALSE,2014-07-01,2020-06-30
+"153","Rural Industries Research and Development Corporation",FALSE,2016-07-01,2020-06-30
+"154","Safe Work Australia",FALSE,2014-07-01,2020-06-30
+"155","Screen Australia",FALSE,2016-07-01,2020-06-30
+"156","Seafarers Safety, Rehabilitation and Compensation Authority",FALSE,2014-07-01,2020-06-30
+"157","Special Broadcasting Service Corporation",FALSE,2016-07-01,2020-06-30
+"158","Sydney Harbour Federation Trust",FALSE,2017-07-01,2020-06-30
+"159","Tertiary Education Quality and Standards Agency",FALSE,2015-07-01,2020-06-30
+"160","Torres Strait Regional Authority",FALSE,2014-07-01,2020-06-30
+"161","Tourism Australia",FALSE,2014-07-01,2020-06-30
+"162","Wine Australia",FALSE,2016-07-01,2020-06-30
+"163","Workplace Gender Equality Agency",FALSE,2014-07-01,2020-06-30
