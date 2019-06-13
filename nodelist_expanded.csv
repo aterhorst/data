@@ -75,8 +75,7 @@
 "15","Australian Commission for Law Enforcement Integrity",FALSE,9610,75,2014-07-01,2015-07-01
 "16","Australian Commission on Safety and Quality in Health Care",FALSE,0,19873,2019-07-01,2020-07-01
 "16","Australian Commission on Safety and Quality in Health Care",FALSE,0,21614,2018-07-01,2019-07-01
-"16","Australian Commission on Safety and Quality in Health Care",FALSE,0,21497,2017-07-01,2018-07-01
-"16","Australian Commission on Safety and Quality in Health Care",FALSE,250526,34050,2017-07-01,2018-07-01
+"16","Australian Commission on Safety and Quality in Health Care",FALSE,250526,55547,2017-07-01,2018-07-01
 "16","Australian Commission on Safety and Quality in Health Care",FALSE,0,19354,2016-07-01,2017-07-01
 "16","Australian Commission on Safety and Quality in Health Care",FALSE,0,19803,2015-07-01,2016-07-01
 "16","Australian Commission on Safety and Quality in Health Care",FALSE,0,3752,2014-07-01,2015-07-01
@@ -105,8 +104,7 @@
 "21","Australian Digital Health Agency",FALSE,120892,85675,2016-07-01,2017-07-01
 "22","Australian Electoral Commission",FALSE,154321,11038,2019-07-01,2020-07-01
 "22","Australian Electoral Commission",FALSE,414164,11038,2018-07-01,2019-07-01
-"22","Australian Electoral Commission",FALSE,142940,11038,2017-07-01,2018-07-01
-"22","Australian Electoral Commission",FALSE,10142,0,2017-07-01,2018-07-01
+"22","Australian Electoral Commission",FALSE,153082,11038,2017-07-01,2018-07-01
 "22","Australian Electoral Commission",FALSE,319518,10952,2016-07-01,2017-07-01
 "22","Australian Electoral Commission",FALSE,126675,10841,2015-07-01,2016-07-01
 "22","Australian Electoral Commission",FALSE,118546,16613,2014-07-01,2015-07-01
@@ -221,8 +219,7 @@
 "41","Australian Office of Financial Management",FALSE,12134,828,2014-07-01,2015-07-01
 "42","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,5586,0,2019-07-01,2020-07-01
 "42","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,5710,0,2018-07-01,2019-07-01
-"42","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,5704,0,2017-07-01,2018-07-01
-"42","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,19794,0,2017-07-01,2018-07-01
+"42","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,25498,0,2017-07-01,2018-07-01
 "42","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,5784,0,2016-07-01,2017-07-01
 "42","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,5926,0,2015-07-01,2016-07-01
 "42","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,6052,0,2014-07-01,2015-07-01
@@ -240,9 +237,7 @@
 "44","Australian Prudential Regulation Authority",FALSE,1061,5471,2014-07-01,2015-07-01
 "45","Australian Public Service Commission",FALSE,20766,22095,2019-07-01,2020-07-01
 "45","Australian Public Service Commission",FALSE,21710,20903,2018-07-01,2019-07-01
-"45","Australian Public Service Commission",FALSE,23225,19002,2017-07-01,2018-07-01
-"45","Australian Public Service Commission",FALSE,71431,0,2017-07-01,2018-07-01
-"45","Australian Public Service Commission",FALSE,4317,0,2017-07-01,2018-07-01
+"45","Australian Public Service Commission",FALSE,98973,19002,2017-07-01,2018-07-01
 "45","Australian Public Service Commission",FALSE,20908,19830,2016-07-01,2017-07-01
 "45","Australian Public Service Commission",FALSE,21064,20244,2015-07-01,2016-07-01
 "45","Australian Public Service Commission",FALSE,22072,21894,2014-07-01,2015-07-01
@@ -373,8 +368,7 @@
 "68","Climate Change Authority",FALSE,3561,0,2015-07-01,2016-07-01
 "69","Comcare",FALSE,5989,280887,2019-07-01,2020-07-01
 "69","Comcare",FALSE,5989,407468,2018-07-01,2019-07-01
-"69","Comcare",FALSE,6020,426116,2017-07-01,2018-07-01
-"69","Comcare",FALSE,4076,0,2017-07-01,2018-07-01
+"69","Comcare",FALSE,10096,426116,2017-07-01,2018-07-01
 "69","Comcare",FALSE,6119,536494,2016-07-01,2017-07-01
 "69","Comcare",FALSE,7727,584192,2015-07-01,2016-07-01
 "69","Comcare",FALSE,7563,615438,2014-07-01,2015-07-01
@@ -476,15 +470,13 @@
 "92","Department of Jobs and Small Business",TRUE,359055,53329,2018-07-01,2019-07-01
 "93","Department of Social Services",TRUE,462115,37569,2019-07-01,2020-07-01
 "93","Department of Social Services",TRUE,414607,40730,2018-07-01,2019-07-01
-"93","Department of Social Services",TRUE,464656,37497,2017-07-01,2018-07-01
-"93","Department of Social Services",TRUE,1026117,6613927,2017-07-01,2018-07-01
+"93","Department of Social Services",TRUE,1490773,6651424,2017-07-01,2018-07-01
 "93","Department of Social Services",TRUE,443385,37497,2016-07-01,2017-07-01
 "93","Department of Social Services",TRUE,718915,23902,2015-07-01,2016-07-01
 "93","Department of Social Services",TRUE,577640,23994,2014-07-01,2015-07-01
 "94","Department of the Environment and Energy",TRUE,614653,38442,2019-07-01,2020-07-01
 "94","Department of the Environment and Energy",TRUE,499389,34566,2018-07-01,2019-07-01
-"94","Department of the Environment and Energy",TRUE,614725,34348,2017-07-01,2018-07-01
-"94","Department of the Environment and Energy",TRUE,2073,258925,2017-07-01,2018-07-01
+"94","Department of the Environment and Energy",TRUE,616798,293273,2017-07-01,2018-07-01
 "95","Department of the Prime Minister and Cabinet",FALSE,424894,14248,2019-07-01,2020-07-01
 "95","Department of the Prime Minister and Cabinet",FALSE,421227,16833,2018-07-01,2019-07-01
 "95","Department of the Prime Minister and Cabinet",FALSE,478086,9261,2017-07-01,2018-07-01
@@ -560,8 +552,7 @@
 "108","Great Barrier Reef Marine Park Authority",FALSE,26847,13320,2014-07-01,2015-07-01
 "109","Independent Hospital Pricing Authority",FALSE,0,16144,2019-07-01,2020-07-01
 "109","Independent Hospital Pricing Authority",FALSE,0,16037,2018-07-01,2019-07-01
-"109","Independent Hospital Pricing Authority",FALSE,0,16422,2017-07-01,2018-07-01
-"109","Independent Hospital Pricing Authority",FALSE,28458,22457,2017-07-01,2018-07-01
+"109","Independent Hospital Pricing Authority",FALSE,28458,38879,2017-07-01,2018-07-01
 "109","Independent Hospital Pricing Authority",FALSE,0,15856,2016-07-01,2017-07-01
 "109","Independent Hospital Pricing Authority",FALSE,25877,0,2015-07-01,2016-07-01
 "109","Independent Hospital Pricing Authority",FALSE,13449,0,2014-07-01,2015-07-01
