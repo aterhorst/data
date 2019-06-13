@@ -1,834 +1,171 @@
-"vertex.id","agency","portfolio","appropriation","ext_revenue","staff","onset","terminus"
-"1","Aboriginal Hostels Limited",FALSE,36426,20198,386,2019-07-01,2020-07-01
-"1","Aboriginal Hostels Limited",FALSE,36323,21087,386,2018-07-01,2019-07-01
-"1","Aboriginal Hostels Limited",FALSE,36563,22363,411,2017-07-01,2018-07-01
-"1","Aboriginal Hostels Limited",FALSE,37075,21177,411,2016-07-01,2017-07-01
-"1","Aboriginal Hostels Limited",FALSE,37582,18820,404,2015-07-01,2016-07-01
-"1","Aboriginal Hostels Limited",FALSE,39302,20192,396,2014-07-01,2015-07-01
-"2","Administrative Appeals Tribunal",FALSE,170265,1018,610,2019-07-01,2020-07-01
-"2","Administrative Appeals Tribunal",FALSE,164277,900,610,2018-07-01,2019-07-01
-"2","Administrative Appeals Tribunal",FALSE,159838,0,610,2017-07-01,2018-07-01
-"2","Administrative Appeals Tribunal",FALSE,164574,0,805,2016-07-01,2017-07-01
-"2","Administrative Appeals Tribunal",FALSE,131856,0,723,2015-07-01,2016-07-01
-"2","Administrative Appeals Tribunal",FALSE,35949,0,163,2014-07-01,2015-07-01
-"3","Aged Care Quality and Safety Commission",FALSE,71014,8392,430,2019-07-01,2020-07-01
-"4","Asbestos Safety and Eradication Agency",FALSE,3372,225,12,2019-07-01,2020-07-01
-"4","Asbestos Safety and Eradication Agency",FALSE,3377,225,12,2018-07-01,2019-07-01
-"4","Asbestos Safety and Eradication Agency",FALSE,4662,0,12,2016-07-01,2017-07-01
-"4","Asbestos Safety and Eradication Agency",FALSE,3264,0,12,2015-07-01,2016-07-01
-"4","Asbestos Safety and Eradication Agency",FALSE,4914,0,7,2014-07-01,2015-07-01
-"5","Attorney-General's Department",TRUE,145242,123367,1326,2019-07-01,2020-07-01
-"5","Attorney-General's Department",TRUE,133515,0,1231,2018-07-01,2019-07-01
-"5","Attorney-General's Department",TRUE,230722,42613,1736,2017-07-01,2018-07-01
-"5","Attorney-General's Department",TRUE,208379,33579,1832,2016-07-01,2017-07-01
-"5","Attorney-General's Department",TRUE,249544,67368,1628,2015-07-01,2016-07-01
-"5","Attorney-General's Department",TRUE,241981,113263,1614,2014-07-01,2015-07-01
-"6","Australia Business Arts Foundation",FALSE,0,7459,16,2018-07-01,2019-07-01
-"6","Australia Business Arts Foundation",FALSE,0,4071,16,2017-07-01,2018-07-01
-"6","Australia Business Arts Foundation",FALSE,0,4392,16,2016-07-01,2017-07-01
-"6","Australia Business Arts Foundation",FALSE,0,4176,17,2015-07-01,2016-07-01
-"7","Australia Council",FALSE,212122,1880,108,2019-07-01,2020-07-01
-"7","Australia Council",FALSE,208186,3040,108,2018-07-01,2019-07-01
-"7","Australia Council",FALSE,209393,2101,109,2017-07-01,2018-07-01
-"7","Australia Council",FALSE,183424,10687,110,2016-07-01,2017-07-01
-"7","Australia Council",FALSE,184526,2821,117,2015-07-01,2016-07-01
-"7","Australia Council",FALSE,211764,4950,127,2014-07-01,2015-07-01
-"8","Australian Aged Care Quality Agency",FALSE,31109,14286,250,2018-07-01,2019-07-01
-"8","Australian Aged Care Quality Agency",FALSE,29512,6580,248,2016-07-01,2017-07-01
-"8","Australian Aged Care Quality Agency",FALSE,28941,13641,244,2015-07-01,2016-07-01
-"8","Australian Aged Care Quality Agency",FALSE,21188,20718,236,2014-07-01,2015-07-01
-"9","Australian Broadcasting Corporation",FALSE,1062265,68641,4130,2019-07-01,2020-07-01
-"9","Australian Broadcasting Corporation",FALSE,1045911,71838,4141,2018-07-01,2019-07-01
-"9","Australian Broadcasting Corporation",FALSE,1043680,88700,4111,2017-07-01,2018-07-01
-"9","Australian Broadcasting Corporation",FALSE,1036090,78313,4194,2016-07-01,2017-07-01
-"9","Australian Broadcasting Corporation",FALSE,1084413,142678,4350,2015-07-01,2016-07-01
-"9","Australian Broadcasting Corporation",FALSE,1113624,164530,4642,2014-07-01,2015-07-01
-"10","Australian Building and Construction Commission",FALSE,33602,370,162,2019-07-01,2020-07-01
-"10","Australian Building and Construction Commission",FALSE,32721,370,155,2018-07-01,2019-07-01
-"10","Australian Building and Construction Commission",FALSE,32963,370,155,2017-07-01,2018-07-01
-"11","Australian Bureau of Statistics",FALSE,401223,42608,2562,2019-07-01,2020-07-01
-"11","Australian Bureau of Statistics",FALSE,368919,47674,2387,2018-07-01,2019-07-01
-"11","Australian Bureau of Statistics",FALSE,372163,57904,2486,2017-07-01,2018-07-01
-"11","Australian Bureau of Statistics",FALSE,582471,40753,2830,2016-07-01,2017-07-01
-"11","Australian Bureau of Statistics",FALSE,461264,44153,2670,2015-07-01,2016-07-01
-"11","Australian Bureau of Statistics",FALSE,348337,30000,2500,2014-07-01,2015-07-01
-"12","Australian Centre for International Agricultural Research",FALSE,9555,1954,78,2019-07-01,2020-07-01
-"12","Australian Centre for International Agricultural Research",FALSE,9547,2259,78,2018-07-01,2019-07-01
-"12","Australian Centre for International Agricultural Research",FALSE,9609,1787,76,2017-07-01,2018-07-01
-"12","Australian Centre for International Agricultural Research",FALSE,9741,1627,74,2016-07-01,2017-07-01
-"12","Australian Centre for International Agricultural Research",FALSE,10066,1958,74,2015-07-01,2016-07-01
-"12","Australian Centre for International Agricultural Research",FALSE,10054,1697,70,2014-07-01,2015-07-01
-"13","Australian Commission for Law Enforcement Integrity",FALSE,14492,75,54,2019-07-01,2020-07-01
-"13","Australian Commission for Law Enforcement Integrity",FALSE,11587,2489,48,2018-07-01,2019-07-01
-"13","Australian Commission for Law Enforcement Integrity",FALSE,11046,575,49,2017-07-01,2018-07-01
-"13","Australian Commission for Law Enforcement Integrity",FALSE,10799,575,52,2016-07-01,2017-07-01
-"13","Australian Commission for Law Enforcement Integrity",FALSE,13122,575,52,2015-07-01,2016-07-01
-"13","Australian Commission for Law Enforcement Integrity",FALSE,9610,75,38,2014-07-01,2015-07-01
-"14","Australian Commission on Safety and Quality in Health Care",FALSE,0,19873,86,2019-07-01,2020-07-01
-"14","Australian Commission on Safety and Quality in Health Care",FALSE,0,21614,86,2018-07-01,2019-07-01
-"14","Australian Commission on Safety and Quality in Health Care",FALSE,0,21497,86,2017-07-01,2018-07-01
-"14","Australian Commission on Safety and Quality in Health Care",FALSE,250526,34050,86,2017-07-01,2018-07-01
-"14","Australian Commission on Safety and Quality in Health Care",FALSE,0,19354,86,2016-07-01,2017-07-01
-"14","Australian Commission on Safety and Quality in Health Care",FALSE,0,19803,92,2015-07-01,2016-07-01
-"14","Australian Commission on Safety and Quality in Health Care",FALSE,0,3752,77,2014-07-01,2015-07-01
-"15","Australian Communications and Media Authority",FALSE,103916,900,456,2019-07-01,2020-07-01
-"15","Australian Communications and Media Authority",FALSE,96322,900,427,2018-07-01,2019-07-01
-"15","Australian Communications and Media Authority",FALSE,88312,3449,418,2017-07-01,2018-07-01
-"15","Australian Communications and Media Authority",FALSE,88290,900,418,2016-07-01,2017-07-01
-"15","Australian Communications and Media Authority",FALSE,89204,900,417,2015-07-01,2016-07-01
-"15","Australian Communications and Media Authority",FALSE,96571,900,468,2014-07-01,2015-07-01
-"16","Australian Competition and Consumer Commission",FALSE,240956,3703,1022,2019-07-01,2020-07-01
-"16","Australian Competition and Consumer Commission",FALSE,213617,3953,909,2018-07-01,2019-07-01
-"16","Australian Competition and Consumer Commission",FALSE,192409,4269,792,2017-07-01,2018-07-01
-"16","Australian Competition and Consumer Commission",FALSE,175755,3947,739,2016-07-01,2017-07-01
-"16","Australian Competition and Consumer Commission",FALSE,166115,2764,725,2015-07-01,2016-07-01
-"16","Australian Competition and Consumer Commission",FALSE,172183,1250,735,2014-07-01,2015-07-01
-"17","Australian Criminal Intelligence Commission",FALSE,131038,18386,849,2019-07-01,2020-07-01
-"17","Australian Criminal Intelligence Commission",FALSE,128190,22868,825,2018-07-01,2019-07-01
-"17","Australian Criminal Intelligence Commission",FALSE,91143,8332,776,2017-07-01,2018-07-01
-"18","Australian Curriculum, Assessment and Reporting Authority",FALSE,0,27606,93,2019-07-01,2020-07-01
-"18","Australian Curriculum, Assessment and Reporting Authority",FALSE,0,28478,93,2018-07-01,2019-07-01
-"18","Australian Curriculum, Assessment and Reporting Authority",FALSE,0,28563,93,2017-07-01,2018-07-01
-"18","Australian Curriculum, Assessment and Reporting Authority",FALSE,0,27460,93,2016-07-01,2017-07-01
-"18","Australian Curriculum, Assessment and Reporting Authority",FALSE,0,25220,93,2015-07-01,2016-07-01
-"19","Australian Digital Health Agency",FALSE,199924,32250,250,2019-07-01,2020-07-01
-"19","Australian Digital Health Agency",FALSE,256812,32889,250,2018-07-01,2019-07-01
-"19","Australian Digital Health Agency",FALSE,120892,85675,51,2016-07-01,2017-07-01
-"20","Australian Electoral Commission",FALSE,154321,11038,788,2019-07-01,2020-07-01
-"20","Australian Electoral Commission",FALSE,414164,11038,788,2018-07-01,2019-07-01
-"20","Australian Electoral Commission",FALSE,142940,11038,795,2017-07-01,2018-07-01
-"20","Australian Electoral Commission",FALSE,0,0,795,2017-07-01,2018-07-01
-"20","Australian Electoral Commission",FALSE,10142,0,795,2017-07-01,2018-07-01
-"20","Australian Electoral Commission",FALSE,0,0,795,2017-07-01,2018-07-01
-"20","Australian Electoral Commission",FALSE,319518,10952,819,2016-07-01,2017-07-01
-"20","Australian Electoral Commission",FALSE,126675,10841,788,2015-07-01,2016-07-01
-"20","Australian Electoral Commission",FALSE,118546,16613,858,2014-07-01,2015-07-01
-"21","Australian Federal Police",FALSE,1254738,277134,6771,2019-07-01,2020-07-01
-"21","Australian Federal Police",FALSE,1180085,272916,6448,2018-07-01,2019-07-01
-"21","Australian Federal Police",FALSE,1149073,256173,6137,2017-07-01,2018-07-01
-"21","Australian Federal Police",FALSE,1113209,258387,6275,2016-07-01,2017-07-01
-"21","Australian Federal Police",FALSE,1098721,263021,6287,2015-07-01,2016-07-01
-"21","Australian Federal Police",FALSE,1137604,288784,6239,2014-07-01,2015-07-01
-"22","Australian Film, Television and Radio School",FALSE,22605,8606,145,2019-07-01,2020-07-01
-"22","Australian Film, Television and Radio School",FALSE,22584,10047,145,2018-07-01,2019-07-01
-"22","Australian Film, Television and Radio School",FALSE,22683,9593,145,2017-07-01,2018-07-01
-"22","Australian Film, Television and Radio School",FALSE,22985,8087,144,2016-07-01,2017-07-01
-"22","Australian Film, Television and Radio School",FALSE,24058,6256,140,2015-07-01,2016-07-01
-"22","Australian Film, Television and Radio School",FALSE,24335,6179,150,2014-07-01,2015-07-01
-"23","Australian Financial Security Authority",FALSE,57331,44351,487,2019-07-01,2020-07-01
-"23","Australian Financial Security Authority",FALSE,55881,49642,487,2018-07-01,2019-07-01
-"23","Australian Financial Security Authority",FALSE,54818,49569,487,2017-07-01,2018-07-01
-"23","Australian Financial Security Authority",FALSE,53687,49497,487,2016-07-01,2017-07-01
-"23","Australian Financial Security Authority",FALSE,53284,49415,487,2015-07-01,2016-07-01
-"23","Australian Financial Security Authority",FALSE,54499,54222,450,2014-07-01,2015-07-01
-"24","Australian Fisheries Management Authority",FALSE,20345,2328,177,2019-07-01,2020-07-01
-"24","Australian Fisheries Management Authority",FALSE,20517,2851,177,2018-07-01,2019-07-01
-"24","Australian Fisheries Management Authority",FALSE,20514,3139,177,2017-07-01,2018-07-01
-"24","Australian Fisheries Management Authority",FALSE,20922,3127,176,2016-07-01,2017-07-01
-"24","Australian Fisheries Management Authority",FALSE,20955,3115,185,2015-07-01,2016-07-01
-"24","Australian Fisheries Management Authority",FALSE,21199,3104,185,2014-07-01,2015-07-01
-"25","Australian Grape and Wine Authority",FALSE,1775,56390,53,2018-07-01,2019-07-01
-"25","Australian Grape and Wine Authority",FALSE,0,54671,53,2017-07-01,2018-07-01
-"25","Australian Grape and Wine Authority",FALSE,0,36314,53,2016-07-01,2017-07-01
-"25","Australian Grape and Wine Authority",FALSE,0,37657,53,2015-07-01,2016-07-01
-"25","Australian Grape and Wine Authority",FALSE,0,34667,55,2014-07-01,2015-07-01
-"25","Australian Grape and Wine Authority",FALSE,0,34667,0,2014-07-01,2015-07-01
-"26","Australian Human Rights Commission",FALSE,16538,5521,116,2019-07-01,2020-07-01
-"26","Australian Human Rights Commission",FALSE,16184,6089,122,2018-07-01,2019-07-01
-"26","Australian Human Rights Commission",FALSE,14439,6364,116,2017-07-01,2018-07-01
-"26","Australian Human Rights Commission",FALSE,14593,7885,111,2016-07-01,2017-07-01
-"26","Australian Human Rights Commission",FALSE,15515,6570,111,2015-07-01,2016-07-01
-"26","Australian Human Rights Commission",FALSE,19941,6485,142,2014-07-01,2015-07-01
-"27","Australian Institute for Teaching and School Leadership Limited",FALSE,0,16349,69,2019-07-01,2020-07-01
-"27","Australian Institute for Teaching and School Leadership Limited",FALSE,0,14685,66,2018-07-01,2019-07-01
-"27","Australian Institute for Teaching and School Leadership Limited",FALSE,0,14504,56,2017-07-01,2018-07-01
-"27","Australian Institute for Teaching and School Leadership Limited",FALSE,0,13031,56,2016-07-01,2017-07-01
-"27","Australian Institute for Teaching and School Leadership Limited",FALSE,0,10200,56,2015-07-01,2016-07-01
-"28","Australian Institute of Aboriginal and Torres Strait Islander Studies",FALSE,20445,5960,121,2019-07-01,2020-07-01
-"28","Australian Institute of Aboriginal and Torres Strait Islander Studies",FALSE,20462,5960,121,2018-07-01,2019-07-01
-"28","Australian Institute of Aboriginal and Torres Strait Islander Studies",FALSE,19567,0,121,2017-07-01,2018-07-01
-"28","Australian Institute of Aboriginal and Torres Strait Islander Studies",FALSE,19891,0,121,2016-07-01,2017-07-01
-"28","Australian Institute of Aboriginal and Torres Strait Islander Studies",FALSE,15009,0,143,2015-07-01,2016-07-01
-"28","Australian Institute of Aboriginal and Torres Strait Islander Studies",FALSE,13392,0,134,2014-07-01,2015-07-01
-"29","Australian Institute of Criminology",FALSE,4617,0,35,2019-07-01,2020-07-01
-"29","Australian Institute of Criminology",FALSE,4997,0,46,2018-07-01,2019-07-01
-"29","Australian Institute of Criminology",FALSE,5104,3107,0,2016-07-01,2017-07-01
-"29","Australian Institute of Criminology",FALSE,5290,2856,47,2015-07-01,2016-07-01
-"29","Australian Institute of Criminology",FALSE,5348,2765,47,2014-07-01,2015-07-01
-"30","Australian Institute of Family Studies",FALSE,4641,10987,82,2019-07-01,2020-07-01
-"30","Australian Institute of Family Studies",FALSE,4601,10296,82,2018-07-01,2019-07-01
-"30","Australian Institute of Family Studies",FALSE,5780,7534,82,2017-07-01,2018-07-01
-"30","Australian Institute of Family Studies",FALSE,4641,7878,82,2016-07-01,2017-07-01
-"30","Australian Institute of Family Studies",FALSE,4750,9289,82,2015-07-01,2016-07-01
-"30","Australian Institute of Family Studies",FALSE,4832,9566,83,2014-07-01,2015-07-01
-"31","Australian Institute of Health and Welfare",FALSE,37305,38446,319,2019-07-01,2020-07-01
-"31","Australian Institute of Health and Welfare",FALSE,33947,35330,321,2018-07-01,2019-07-01
-"31","Australian Institute of Health and Welfare",FALSE,28078,33030,308,2017-07-01,2018-07-01
-"31","Australian Institute of Health and Welfare",FALSE,26918,35308,311,2016-07-01,2017-07-01
-"31","Australian Institute of Health and Welfare",FALSE,15625,30630,285,2015-07-01,2016-07-01
-"31","Australian Institute of Health and Welfare",FALSE,15800,35237,294,2014-07-01,2015-07-01
-"32","Australian Institute of Marine Science",FALSE,44800,27131,263,2019-07-01,2020-07-01
-"32","Australian Institute of Marine Science",FALSE,47527,25455,243,2018-07-01,2019-07-01
-"32","Australian Institute of Marine Science",FALSE,43516,21328,223,2017-07-01,2018-07-01
-"32","Australian Institute of Marine Science",FALSE,41552,20044,207,2016-07-01,2017-07-01
-"32","Australian Institute of Marine Science",FALSE,40483,23513,213,2015-07-01,2016-07-01
-"32","Australian Institute of Marine Science",FALSE,38796,23670,202,2014-07-01,2015-07-01
-"33","Australian Law Reform Commission",FALSE,2623,0,11,2019-07-01,2020-07-01
-"33","Australian Law Reform Commission",FALSE,2611,1,12,2018-07-01,2019-07-01
-"33","Australian Law Reform Commission",FALSE,2767,5,13,2016-07-01,2017-07-01
-"33","Australian Law Reform Commission",FALSE,2842,5,13,2015-07-01,2016-07-01
-"33","Australian Law Reform Commission",FALSE,2873,5,13,2014-07-01,2015-07-01
-"34","Australian Maritime Safety Authority",FALSE,81919,151581,448,2019-07-01,2020-07-01
-"34","Australian Maritime Safety Authority",FALSE,77605,151163,452,2018-07-01,2019-07-01
-"34","Australian Maritime Safety Authority",FALSE,69548,140891,418,2017-07-01,2018-07-01
-"34","Australian Maritime Safety Authority",FALSE,65512,147911,384,2016-07-01,2017-07-01
-"34","Australian Maritime Safety Authority",FALSE,57509,143319,375,2015-07-01,2016-07-01
-"34","Australian Maritime Safety Authority",FALSE,56595,139475,367,2014-07-01,2015-07-01
-"35","Australian National Audit Office",FALSE,70620,4100,321,2019-07-01,2020-07-01
-"35","Australian National Audit Office",FALSE,71048,4100,325,2018-07-01,2019-07-01
-"35","Australian National Audit Office",FALSE,72243,3800,331,2017-07-01,2018-07-01
-"35","Australian National Audit Office",FALSE,74004,4000,337,2016-07-01,2017-07-01
-"35","Australian National Audit Office",FALSE,73731,3500,345,2015-07-01,2016-07-01
-"35","Australian National Audit Office",FALSE,74425,3500,349,2014-07-01,2015-07-01
-"36","Australian National Maritime Museum",FALSE,24370,23555,125,2019-07-01,2020-07-01
-"36","Australian National Maritime Museum",FALSE,29236,15403,125,2018-07-01,2019-07-01
-"36","Australian National Maritime Museum",FALSE,28707,12308,125,2017-07-01,2018-07-01
-"36","Australian National Maritime Museum",FALSE,22779,11796,125,2016-07-01,2017-07-01
-"36","Australian National Maritime Museum",FALSE,23920,10248,115,2015-07-01,2016-07-01
-"36","Australian National Maritime Museum",FALSE,24038,7635,108,2014-07-01,2015-07-01
-"37","Australian National Preventive Health Agency",FALSE,0,0,0,2019-07-01,2020-07-01
-"37","Australian National Preventive Health Agency",FALSE,0,0,0,2014-07-01,2015-07-01
-"38","Australian Nuclear Science and Technology Organisation",FALSE,313818,120635,1356,2019-07-01,2020-07-01
-"38","Australian Nuclear Science and Technology Organisation",FALSE,242533,119261,1303,2018-07-01,2019-07-01
-"38","Australian Nuclear Science and Technology Organisation",FALSE,219156,99420,1303,2017-07-01,2018-07-01
-"38","Australian Nuclear Science and Technology Organisation",FALSE,212175,111833,1257,2016-07-01,2017-07-01
-"38","Australian Nuclear Science and Technology Organisation",FALSE,192616,118984,1257,2015-07-01,2016-07-01
-"38","Australian Nuclear Science and Technology Organisation",FALSE,252803,113300,1204,2014-07-01,2015-07-01
-"39","Australian Office of Financial Management",FALSE,14167,382,47,2019-07-01,2020-07-01
-"39","Australian Office of Financial Management",FALSE,11499,371,40,2018-07-01,2019-07-01
-"39","Australian Office of Financial Management",FALSE,11580,361,40,2017-07-01,2018-07-01
-"39","Australian Office of Financial Management",FALSE,12068,811,40,2016-07-01,2017-07-01
-"39","Australian Office of Financial Management",FALSE,11907,811,41,2015-07-01,2016-07-01
-"39","Australian Office of Financial Management",FALSE,12134,828,43,2014-07-01,2015-07-01
-"40","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,5586,0,28,2019-07-01,2020-07-01
-"40","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,5710,0,28,2018-07-01,2019-07-01
-"40","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,5784,0,28,2016-07-01,2017-07-01
-"40","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,5926,0,28,2015-07-01,2016-07-01
-"40","Australian Organ and Tissue Donation and Transplantation Authority",FALSE,6052,0,28,2014-07-01,2015-07-01
-"41","Australian Pesticides and Veterinary Medicines Authority",FALSE,5695,30690,180,2019-07-01,2020-07-01
-"41","Australian Pesticides and Veterinary Medicines Authority",FALSE,24902,28423,195,2018-07-01,2019-07-01
-"41","Australian Pesticides and Veterinary Medicines Authority",FALSE,5995,32550,201,2017-07-01,2018-07-01
-"41","Australian Pesticides and Veterinary Medicines Authority",FALSE,3522,32848,192,2016-07-01,2017-07-01
-"41","Australian Pesticides and Veterinary Medicines Authority",FALSE,732,31997,171,2015-07-01,2016-07-01
-"41","Australian Pesticides and Veterinary Medicines Authority",FALSE,743,339,176,2014-07-01,2015-07-01
-"42","Australian Prudential Regulation Authority",FALSE,0,5277,738,2019-07-01,2020-07-01
-"42","Australian Prudential Regulation Authority",FALSE,126,5503,642,2018-07-01,2019-07-01
-"42","Australian Prudential Regulation Authority",FALSE,731,5695,626,2017-07-01,2018-07-01
-"42","Australian Prudential Regulation Authority",FALSE,1543,5056,605,2016-07-01,2017-07-01
-"42","Australian Prudential Regulation Authority",FALSE,1237,4930,590,2015-07-01,2016-07-01
-"42","Australian Prudential Regulation Authority",FALSE,1061,5471,590,2014-07-01,2015-07-01
-"43","Australian Public Service Commission",FALSE,20766,22095,209,2019-07-01,2020-07-01
-"43","Australian Public Service Commission",FALSE,21710,20903,209,2018-07-01,2019-07-01
-"43","Australian Public Service Commission",FALSE,23225,19002,209,2017-07-01,2018-07-01
-"43","Australian Public Service Commission",FALSE,71431,0,209,2017-07-01,2018-07-01
-"43","Australian Public Service Commission",FALSE,4317,0,209,2017-07-01,2018-07-01
-"43","Australian Public Service Commission",FALSE,20908,19830,209,2016-07-01,2017-07-01
-"43","Australian Public Service Commission",FALSE,21064,20244,213,2015-07-01,2016-07-01
-"43","Australian Public Service Commission",FALSE,22072,21894,226,2014-07-01,2015-07-01
-"44","Australian Radiation Protection and Nuclear Safety Agency",FALSE,14696,0,134,2019-07-01,2020-07-01
-"44","Australian Radiation Protection and Nuclear Safety Agency",FALSE,14703,0,134,2018-07-01,2019-07-01
-"44","Australian Radiation Protection and Nuclear Safety Agency",FALSE,15173,0,131,2016-07-01,2017-07-01
-"44","Australian Radiation Protection and Nuclear Safety Agency",FALSE,15043,0,135,2015-07-01,2016-07-01
-"44","Australian Radiation Protection and Nuclear Safety Agency",FALSE,15261,0,130,2014-07-01,2015-07-01
-"45","Australian Renewable Energy Agency",FALSE,2868,280643,2,2019-07-01,2020-07-01
-"45","Australian Renewable Energy Agency",FALSE,2463,313143,2,2018-07-01,2019-07-01
-"45","Australian Renewable Energy Agency",FALSE,1221,189037,2,2016-07-01,2017-07-01
-"45","Australian Renewable Energy Agency",FALSE,0,329340,0,2014-07-01,2015-07-01
-"46","Australian Research Council",FALSE,22454,0,136,2019-07-01,2020-07-01
-"46","Australian Research Council",FALSE,22668,500,136,2018-07-01,2019-07-01
-"46","Australian Research Council",FALSE,23095,0,136,2017-07-01,2018-07-01
-"46","Australian Research Council",FALSE,26626,0,136,2016-07-01,2017-07-01
-"46","Australian Research Council",FALSE,23385,0,120,2015-07-01,2016-07-01
-"46","Australian Research Council",FALSE,23630,0,120,2014-07-01,2015-07-01
-"47","Australian Secret Intelligence Service",FALSE,385941,97200,0,2019-07-01,2020-07-01
-"47","Australian Secret Intelligence Service",FALSE,376565,89600,0,2018-07-01,2019-07-01
-"47","Australian Secret Intelligence Service",FALSE,320835,79000,0,2017-07-01,2018-07-01
-"47","Australian Secret Intelligence Service",FALSE,307538,53500,0,2016-07-01,2017-07-01
-"47","Australian Secret Intelligence Service",FALSE,267873,54500,0,2015-07-01,2016-07-01
-"47","Australian Secret Intelligence Service",FALSE,223494,34500,0,2014-07-01,2015-07-01
-"48","Australian Securities and Investments Commission",FALSE,429645,6500,2002,2019-07-01,2020-07-01
-"48","Australian Securities and Investments Commission",FALSE,372272,8162,1719,2018-07-01,2019-07-01
-"48","Australian Securities and Investments Commission",FALSE,383276,4563,1698,2017-07-01,2018-07-01
-"48","Australian Securities and Investments Commission",FALSE,395132,4522,1687,2016-07-01,2017-07-01
-"48","Australian Securities and Investments Commission",FALSE,332554,2147,1569,2015-07-01,2016-07-01
-"48","Australian Securities and Investments Commission",FALSE,346639,2044,1573,2014-07-01,2015-07-01
-"49","Australian Security Intelligence Organisation",FALSE,534108,21961,1957,2019-07-01,2020-07-01
-"49","Australian Security Intelligence Organisation",FALSE,526784,23229,1898,2018-07-01,2019-07-01
-"49","Australian Security Intelligence Organisation",FALSE,499931,22414,1835,2017-07-01,2018-07-01
-"49","Australian Security Intelligence Organisation",FALSE,445215,21398,1812,2016-07-01,2017-07-01
-"49","Australian Security Intelligence Organisation",FALSE,429420,16394,1768,2015-07-01,2016-07-01
-"49","Australian Security Intelligence Organisation",FALSE,390741,16367,1720,2014-07-01,2015-07-01
-"50","Australian Signals Directorate",FALSE,917453,4076,0,2019-07-01,2020-07-01
-"50","Australian Signals Directorate",FALSE,824615,2715,0,2018-07-01,2019-07-01
-"51","Australian Sports Anti-Doping Authority",FALSE,16656,2201,76,2019-07-01,2020-07-01
-"51","Australian Sports Anti-Doping Authority",FALSE,15670,2147,76,2018-07-01,2019-07-01
-"51","Australian Sports Anti-Doping Authority",FALSE,13813,4269,50,2017-07-01,2018-07-01
-"51","Australian Sports Anti-Doping Authority",FALSE,12304,0,50,2016-07-01,2017-07-01
-"51","Australian Sports Anti-Doping Authority",FALSE,12607,300,57,2015-07-01,2016-07-01
-"51","Australian Sports Anti-Doping Authority",FALSE,13313,300,62,2014-07-01,2015-07-01
-"52","Australian Sports Commission",FALSE,388893,21951,491,2019-07-01,2020-07-01
-"52","Australian Sports Commission",FALSE,388893,21951,11,2019-07-01,2020-07-01
-"52","Australian Sports Commission",FALSE,314335,22703,531,2018-07-01,2019-07-01
-"52","Australian Sports Commission",FALSE,314335,22703,11,2018-07-01,2019-07-01
-"52","Australian Sports Commission",FALSE,265664,23672,570,2017-07-01,2018-07-01
-"52","Australian Sports Commission",FALSE,265664,23672,11,2017-07-01,2018-07-01
-"52","Australian Sports Commission",FALSE,250669,22735,582,2016-07-01,2017-07-01
-"52","Australian Sports Commission",FALSE,250669,22735,11,2016-07-01,2017-07-01
-"52","Australian Sports Commission",FALSE,253646,23723,584,2015-07-01,2016-07-01
-"52","Australian Sports Commission",FALSE,253646,23723,11,2015-07-01,2016-07-01
-"52","Australian Sports Commission",FALSE,265156,32410,505,2014-07-01,2015-07-01
-"53","Australian Taxation Office",FALSE,3608283,134960,18104,2019-07-01,2020-07-01
-"53","Australian Taxation Office",FALSE,3393633,122798,18234,2018-07-01,2019-07-01
-"53","Australian Taxation Office",FALSE,3339788,128294,18043,2017-07-01,2018-07-01
-"53","Australian Taxation Office",FALSE,3357313,152374,18320,2016-07-01,2017-07-01
-"53","Australian Taxation Office",FALSE,3327021,133133,18482,2015-07-01,2016-07-01
-"53","Australian Taxation Office",FALSE,3368718,73572,19068,2014-07-01,2015-07-01
-"54","Australian Trade and Investment Commission",FALSE,217222,27400,1028,2019-07-01,2020-07-01
-"54","Australian Trade and Investment Commission",FALSE,217222,27400,1028,2018-07-01,2019-07-01
-"54","Australian Trade and Investment Commission",FALSE,207945,27400,1033,2017-07-01,2018-07-01
-"54","Australian Trade and Investment Commission",FALSE,213461,25100,1020,2016-07-01,2017-07-01
-"55","Australian Transaction Reports and Analysis Centre",FALSE,80166,5592,368,2019-07-01,2020-07-01
-"55","Australian Transaction Reports and Analysis Centre",FALSE,78759,5328,330,2018-07-01,2019-07-01
-"55","Australian Transaction Reports and Analysis Centre",FALSE,64551,2537,308,2017-07-01,2018-07-01
-"55","Australian Transaction Reports and Analysis Centre",FALSE,70868,2235,302,2016-07-01,2017-07-01
-"55","Australian Transaction Reports and Analysis Centre",FALSE,63801,2083,285,2015-07-01,2016-07-01
-"55","Australian Transaction Reports and Analysis Centre",FALSE,56855,1557,259,2014-07-01,2015-07-01
-"56","Australian Transport Safety Bureau",FALSE,20863,1383,108,2019-07-01,2020-07-01
-"56","Australian Transport Safety Bureau",FALSE,20989,1778,109,2018-07-01,2019-07-01
-"56","Australian Transport Safety Bureau",FALSE,23299,1595,107,2017-07-01,2018-07-01
-"56","Australian Transport Safety Bureau",FALSE,18525,910,96,2016-07-01,2017-07-01
-"56","Australian Transport Safety Bureau",FALSE,68950,1304,100,2015-07-01,2016-07-01
-"56","Australian Transport Safety Bureau",FALSE,69819,1201,104,2014-07-01,2015-07-01
-"57","Australian War Memorial",FALSE,81617,8842,303,2019-07-01,2020-07-01
-"57","Australian War Memorial",FALSE,62333,8299,283,2018-07-01,2019-07-01
-"57","Australian War Memorial",FALSE,56390,8769,283,2017-07-01,2018-07-01
-"57","Australian War Memorial",FALSE,49874,11098,278,2016-07-01,2017-07-01
-"57","Australian War Memorial",FALSE,51545,9775,278,2015-07-01,2016-07-01
-"57","Australian War Memorial",FALSE,60252,11264,333,2014-07-01,2015-07-01
-"58","Bundanon Trust",FALSE,0,8572,23,2019-07-01,2020-07-01
-"58","Bundanon Trust",FALSE,0,3124,23,2018-07-01,2019-07-01
-"58","Bundanon Trust",FALSE,0,2652,23,2017-07-01,2018-07-01
-"58","Bundanon Trust",FALSE,0,2734,20,2016-07-01,2017-07-01
-"58","Bundanon Trust",FALSE,0,2603,20,2015-07-01,2016-07-01
-"59","Bureau of Meteorology",FALSE,401453,80218,1573,2019-07-01,2020-07-01
-"59","Bureau of Meteorology",FALSE,405325,81135,1569,2018-07-01,2019-07-01
-"59","Bureau of Meteorology",FALSE,318085,79522,1565,2017-07-01,2018-07-01
-"59","Bureau of Meteorology",FALSE,293620,71363,1602,2016-07-01,2017-07-01
-"59","Bureau of Meteorology",FALSE,295208,70118,1379,2015-07-01,2016-07-01
-"59","Bureau of Meteorology",FALSE,272596,71634,1450,2014-07-01,2015-07-01
-"60","Cancer Australia",FALSE,11167,2081,71,2019-07-01,2020-07-01
-"60","Cancer Australia",FALSE,11169,2232,71,2018-07-01,2019-07-01
-"60","Cancer Australia",FALSE,11191,127,69,2017-07-01,2018-07-01
-"60","Cancer Australia",FALSE,11356,130,69,2016-07-01,2017-07-01
-"60","Cancer Australia",FALSE,12091,1128,71,2015-07-01,2016-07-01
-"60","Cancer Australia",FALSE,12051,1474,72,2014-07-01,2015-07-01
-"61","Civil Aviation Safety Authority",FALSE,46172,155710,846,2019-07-01,2020-07-01
-"61","Civil Aviation Safety Authority",FALSE,43936,144600,809,2018-07-01,2019-07-01
-"61","Civil Aviation Safety Authority",FALSE,41313,142437,805,2017-07-01,2018-07-01
-"61","Civil Aviation Safety Authority",FALSE,42350,140690,805,2016-07-01,2017-07-01
-"61","Civil Aviation Safety Authority",FALSE,42461,137673,833,2015-07-01,2016-07-01
-"61","Civil Aviation Safety Authority",FALSE,42480,145001,833,2014-07-01,2015-07-01
-"62","Clean Energy Finance Corporation",FALSE,0,182632,121,2019-07-01,2020-07-01
-"62","Clean Energy Finance Corporation",FALSE,0,162163,112,2018-07-01,2019-07-01
-"62","Clean Energy Finance Corporation",FALSE,0,84299,101,2017-07-01,2018-07-01
-"62","Clean Energy Finance Corporation",FALSE,0,50977,65,2016-07-01,2017-07-01
-"62","Clean Energy Finance Corporation",FALSE,0,44925,30,2015-07-01,2016-07-01
-"62","Clean Energy Finance Corporation",FALSE,0,38166,0,2014-07-01,2015-07-01
-"63","Clean Energy Regulator",FALSE,71254,0,322,2019-07-01,2020-07-01
-"63","Clean Energy Regulator",FALSE,71040,0,322,2018-07-01,2019-07-01
-"63","Clean Energy Regulator",FALSE,71136,0,323,2017-07-01,2018-07-01
-"63","Clean Energy Regulator",FALSE,72314,0,324,2016-07-01,2017-07-01
-"63","Clean Energy Regulator",FALSE,74597,0,324,2015-07-01,2016-07-01
-"63","Clean Energy Regulator",FALSE,82302,0,339,2014-07-01,2015-07-01
-"64","Climate Change Authority",FALSE,0,1553,9,2019-07-01,2020-07-01
-"64","Climate Change Authority",FALSE,0,1555,9,2018-07-01,2019-07-01
-"64","Climate Change Authority",FALSE,0,1456,9,2017-07-01,2018-07-01
-"64","Climate Change Authority",FALSE,2563,0,9,2016-07-01,2017-07-01
-"64","Climate Change Authority",FALSE,3561,0,18,2015-07-01,2016-07-01
-"64","Climate Change Authority",FALSE,0,0,0,2014-07-01,2015-07-01
-"65","Comcare",FALSE,5989,280887,630,2019-07-01,2020-07-01
-"65","Comcare",FALSE,5989,407468,652,2018-07-01,2019-07-01
-"65","Comcare",FALSE,6020,426116,652,2017-07-01,2018-07-01
-"65","Comcare",FALSE,4076,0,652,2017-07-01,2018-07-01
-"65","Comcare",FALSE,6119,536494,652,2016-07-01,2017-07-01
-"65","Comcare",FALSE,7727,584192,652,2015-07-01,2016-07-01
-"65","Comcare",FALSE,7563,615438,674,2014-07-01,2015-07-01
-"66","Commonwealth Grants Commission",FALSE,9052,0,34,2019-07-01,2020-07-01
-"66","Commonwealth Grants Commission",FALSE,6128,0,30,2018-07-01,2019-07-01
-"66","Commonwealth Grants Commission",FALSE,6188,0,30,2017-07-01,2018-07-01
-"66","Commonwealth Grants Commission",FALSE,6270,0,30,2016-07-01,2017-07-01
-"66","Commonwealth Grants Commission",FALSE,6307,0,36,2015-07-01,2016-07-01
-"66","Commonwealth Grants Commission",FALSE,6399,0,40,2014-07-01,2015-07-01
-"67","Commonwealth Scientific and Industrial Research Organisation",FALSE,894151,613875,5193,2019-07-01,2020-07-01
-"67","Commonwealth Scientific and Industrial Research Organisation",FALSE,843661,584348,5183,2018-07-01,2019-07-01
-"67","Commonwealth Scientific and Industrial Research Organisation",FALSE,803549,556141,5063,2017-07-01,2018-07-01
-"67","Commonwealth Scientific and Industrial Research Organisation",FALSE,797267,532037,5078,2016-07-01,2017-07-01
-"67","Commonwealth Scientific and Industrial Research Organisation",FALSE,749681,542101,4971,2015-07-01,2016-07-01
-"67","Commonwealth Scientific and Industrial Research Organisation",FALSE,745268,506600,5034,2014-07-01,2015-07-01
-"68","Commonwealth Superannuation Corporation",FALSE,0,42141,476,2019-07-01,2020-07-01
-"68","Commonwealth Superannuation Corporation",FALSE,0,0,476,2018-07-01,2019-07-01
-"68","Commonwealth Superannuation Corporation",FALSE,0,0,476,2017-07-01,2018-07-01
-"68","Commonwealth Superannuation Corporation",FALSE,0,0,476,2016-07-01,2017-07-01
-"68","Commonwealth Superannuation Corporation",FALSE,0,4181,476,2015-07-01,2016-07-01
-"68","Commonwealth Superannuation Corporation",FALSE,0,9024,81,2014-07-01,2015-07-01
-"69","Corporations and Markets Advisory Committee",FALSE,0,0,0,2015-07-01,2016-07-01
-"69","Corporations and Markets Advisory Committee",FALSE,977,0,3,2014-07-01,2015-07-01
-"70","Cotton Research and Development Corporation",FALSE,0,14767,15,2019-07-01,2020-07-01
-"70","Cotton Research and Development Corporation",FALSE,0,22931,15,2018-07-01,2019-07-01
-"70","Cotton Research and Development Corporation",FALSE,0,26903,15,2017-07-01,2018-07-01
-"70","Cotton Research and Development Corporation",FALSE,0,13345,14,2016-07-01,2017-07-01
-"70","Cotton Research and Development Corporation",FALSE,0,10979,13,2015-07-01,2016-07-01
-"70","Cotton Research and Development Corporation",FALSE,0,20690,14,2014-07-01,2015-07-01
-"71","Defence Housing Australia",FALSE,0,1268488,643,2019-07-01,2020-07-01
-"71","Defence Housing Australia",FALSE,0,1307970,643,2018-07-01,2019-07-01
-"71","Defence Housing Australia",FALSE,0,1384817,643,2017-07-01,2018-07-01
-"71","Defence Housing Australia",FALSE,0,1539526,650,2016-07-01,2017-07-01
-"71","Defence Housing Australia",FALSE,0,1190094,676,2015-07-01,2016-07-01
-"71","Defence Housing Australia",FALSE,0,1254667,673,2014-07-01,2015-07-01
-"72","Department of Agriculture",TRUE,314555,22741,4179,2015-07-01,2016-07-01
-"72","Department of Agriculture",TRUE,302671,22222,4165,2014-07-01,2015-07-01
-"73","Department of Agriculture and Water Resources",TRUE,411814,13651,4440,2019-07-01,2020-07-01
-"73","Department of Agriculture and Water Resources",TRUE,397015,15600,4558,2018-07-01,2019-07-01
-"73","Department of Agriculture and Water Resources",TRUE,404933,23853,4488,2017-07-01,2018-07-01
-"73","Department of Agriculture and Water Resources",TRUE,388907,24572,4517,2016-07-01,2017-07-01
-"74","Department of Communications and the Arts",TRUE,124826,2912,550,2019-07-01,2020-07-01
-"74","Department of Communications and the Arts",TRUE,109759,514,550,2018-07-01,2019-07-01
-"74","Department of Communications and the Arts",TRUE,106869,95,552,2017-07-01,2018-07-01
-"74","Department of Communications and the Arts",TRUE,107587,95,552,2016-07-01,2017-07-01
-"75","Department of Defence",TRUE,37824952,729043,96812,2019-07-01,2020-07-01
-"75","Department of Defence",TRUE,35531649,700576,96017,2018-07-01,2019-07-01
-"75","Department of Defence",TRUE,34570533,621628,96864,2017-07-01,2018-07-01
-"75","Department of Defence",TRUE,32337852,1098150,96269,2016-07-01,2017-07-01
-"75","Department of Defence",TRUE,31851445,1067542,95222,2015-07-01,2016-07-01
-"75","Department of Defence",TRUE,28346664,942623,94222,2014-07-01,2015-07-01
-"76","Department of Education",TRUE,295085,22417,1823,2014-07-01,2015-07-01
-"77","Department of Education and Training",TRUE,433864,17027,1753,2019-07-01,2020-07-01
-"77","Department of Education and Training",TRUE,375459,12027,1759,2018-07-01,2019-07-01
-"77","Department of Education and Training",TRUE,367493,13946,1821,2017-07-01,2018-07-01
-"77","Department of Education and Training",TRUE,345329,19574,2025,2016-07-01,2017-07-01
-"77","Department of Education and Training",TRUE,285848,17970,1601,2015-07-01,2016-07-01
-"78","Department of Employment",TRUE,363455,49383,1949,2017-07-01,2018-07-01
-"78","Department of Employment",TRUE,317091,13604,1807,2016-07-01,2017-07-01
-"78","Department of Employment",TRUE,322277,17713,1791,2015-07-01,2016-07-01
-"78","Department of Employment",TRUE,288680,17454,1716,2014-07-01,2015-07-01
-"79","Department of Finance",TRUE,280829,52132,1241,2019-07-01,2020-07-01
-"79","Department of Finance",TRUE,306360,95167,1249,2018-07-01,2019-07-01
-"79","Department of Finance",TRUE,327612,22899,1257,2017-07-01,2018-07-01
-"79","Department of Finance",TRUE,349939,18799,1323,2016-07-01,2017-07-01
-"79","Department of Finance",TRUE,424050,17232,1350,2015-07-01,2016-07-01
-"79","Department of Finance",TRUE,590258,17221,1369,2014-07-01,2015-07-01
-"80","Department of Foreign Affairs and Trade",TRUE,1546188,122311,5810,2019-07-01,2020-07-01
-"80","Department of Foreign Affairs and Trade",TRUE,1498084,112728,5741,2018-07-01,2019-07-01
-"80","Department of Foreign Affairs and Trade",TRUE,1477462,97228,5806,2017-07-01,2018-07-01
-"80","Department of Foreign Affairs and Trade",TRUE,1512582,81599,5760,2016-07-01,2017-07-01
-"80","Department of Foreign Affairs and Trade",TRUE,1605231,81599,5734,2015-07-01,2016-07-01
-"80","Department of Foreign Affairs and Trade",TRUE,1404800,81599,5640,2014-07-01,2015-07-01
-"81","Department of Health",TRUE,678460,23224,3799,2019-07-01,2020-07-01
-"81","Department of Health",TRUE,698899,20883,4358,2018-07-01,2019-07-01
-"81","Department of Health",TRUE,649855,64456,4398,2017-07-01,2018-07-01
-"81","Department of Health",TRUE,650559,66361,4483,2016-07-01,2017-07-01
-"81","Department of Health",TRUE,453403,31549,3202,2015-07-01,2016-07-01
-"81","Department of Health",TRUE,488143,24103,3405,2014-07-01,2015-07-01
-"82","Department of Home Affairs",TRUE,2866079,252046,14545,2019-07-01,2020-07-01
-"82","Department of Home Affairs",TRUE,2660511,218411,14420,2018-07-01,2019-07-01
-"83","Department of Human Services",TRUE,4635854,237039,27325,2019-07-01,2020-07-01
-"83","Department of Human Services",TRUE,4561486,255110,27307,2018-07-01,2019-07-01
-"83","Department of Human Services",TRUE,4837414,263821,28647,2017-07-01,2018-07-01
-"83","Department of Human Services",TRUE,4326891,169133,29292,2016-07-01,2017-07-01
-"83","Department of Human Services",TRUE,4454195,141419,30461,2015-07-01,2016-07-01
-"83","Department of Human Services",TRUE,4280311,158013,30150,2014-07-01,2015-07-01
-"84","Department of Immigration and Border Protection",TRUE,2711231,174999,13755,2017-07-01,2018-07-01
-"84","Department of Immigration and Border Protection",TRUE,2673949,150614,13445,2016-07-01,2017-07-01
-"84","Department of Immigration and Border Protection",TRUE,2797171,154807,13700,2015-07-01,2016-07-01
-"84","Department of Immigration and Border Protection",TRUE,1506650,60807,8904,2014-07-01,2015-07-01
-"85","Department of Industry, Innovation and Science",TRUE,424325,75796,2456,2019-07-01,2020-07-01
-"85","Department of Industry, Innovation and Science",TRUE,418407,66110,2487,2018-07-01,2019-07-01
-"85","Department of Industry, Innovation and Science",TRUE,413199,78632,2410,2017-07-01,2018-07-01
-"85","Department of Industry, Innovation and Science",TRUE,425715,62862,2568,2016-07-01,2017-07-01
-"86","Department of Infrastructure and Regional Development",TRUE,291310,6615,1130,2017-07-01,2018-07-01
-"86","Department of Infrastructure and Regional Development",TRUE,277258,6931,1130,2016-07-01,2017-07-01
-"86","Department of Infrastructure and Regional Development",TRUE,246551,10676,1144,2015-07-01,2016-07-01
-"86","Department of Infrastructure and Regional Development",TRUE,269547,9112,1164,2014-07-01,2015-07-01
-"87","Department of Infrastructure, Regional Development and Cities",TRUE,211553,4870,890,2019-07-01,2020-07-01
-"87","Department of Infrastructure, Regional Development and Cities",TRUE,211371,3386,879,2018-07-01,2019-07-01
-"88","Department of Jobs and Small Business",TRUE,395611,53834,1999,2019-07-01,2020-07-01
-"88","Department of Jobs and Small Business",TRUE,359055,53329,1952,2018-07-01,2019-07-01
-"89","Department of Social Services",TRUE,462115,37569,2122,2019-07-01,2020-07-01
-"89","Department of Social Services",TRUE,414607,40730,1862,2018-07-01,2019-07-01
-"89","Department of Social Services",TRUE,464656,37497,1942,2017-07-01,2018-07-01
-"89","Department of Social Services",TRUE,1026117,6613927,1942,2017-07-01,2018-07-01
-"89","Department of Social Services",TRUE,443385,37497,2035,2016-07-01,2017-07-01
-"89","Department of Social Services",TRUE,718915,23902,3561,2015-07-01,2016-07-01
-"89","Department of Social Services",TRUE,577640,23994,3305,2014-07-01,2015-07-01
-"90","Department of the Environment and Energy",TRUE,614653,38442,2007,2019-07-01,2020-07-01
-"90","Department of the Environment and Energy",TRUE,499389,34566,1993,2018-07-01,2019-07-01
-"90","Department of the Environment and Energy",TRUE,614725,34348,1972,2017-07-01,2018-07-01
-"90","Department of the Environment and Energy",TRUE,2073,258925,1972,2017-07-01,2018-07-01
-"91","Department of the Prime Minister and Cabinet",FALSE,424894,14248,2065,2019-07-01,2020-07-01
-"91","Department of the Prime Minister and Cabinet",FALSE,421227,16833,2038,2018-07-01,2019-07-01
-"91","Department of the Prime Minister and Cabinet",FALSE,478086,9261,2061,2017-07-01,2018-07-01
-"91","Department of the Prime Minister and Cabinet",FALSE,389639,10552,2070,2016-07-01,2017-07-01
-"91","Department of the Prime Minister and Cabinet",FALSE,389302,5964,2043,2015-07-01,2016-07-01
-"91","Department of the Prime Minister and Cabinet",FALSE,595993,8613,2314,2014-07-01,2015-07-01
-"92","Department of the Treasury",TRUE,206309,12423,909,2019-07-01,2020-07-01
-"92","Department of the Treasury",TRUE,194255,12423,846,2018-07-01,2019-07-01
-"92","Department of the Treasury",TRUE,206776,12704,859,2017-07-01,2018-07-01
-"92","Department of the Treasury",TRUE,168243,8954,810,2016-07-01,2017-07-01
-"92","Department of the Treasury",TRUE,166353,8718,833,2015-07-01,2016-07-01
-"92","Department of the Treasury",TRUE,180393,8488,884,2014-07-01,2015-07-01
-"93","Department of Veterans' Affairs",TRUE,356624,11655,1615,2019-07-01,2020-07-01
-"93","Department of Veterans' Affairs",TRUE,390081,7526,1796,2018-07-01,2019-07-01
-"93","Department of Veterans' Affairs",TRUE,389319,6905,1853,2017-07-01,2018-07-01
-"93","Department of Veterans' Affairs",TRUE,338918,6746,1838,2016-07-01,2017-07-01
-"93","Department of Veterans' Affairs",TRUE,298531,9616,1894,2015-07-01,2016-07-01
-"93","Department of Veterans' Affairs",TRUE,299392,10881,1870,2014-07-01,2015-07-01
-"94","Digital Transformation Agency",FALSE,57345,2170,205,2019-07-01,2020-07-01
-"94","Digital Transformation Agency",FALSE,115356,2171,202,2018-07-01,2019-07-01
-"95","Director of National Parks",FALSE,46160,26353,331,2019-07-01,2020-07-01
-"95","Director of National Parks",FALSE,47615,23431,331,2018-07-01,2019-07-01
-"95","Director of National Parks",FALSE,376,68815,326,2017-07-01,2018-07-01
-"95","Director of National Parks",FALSE,619,62051,321,2016-07-01,2017-07-01
-"95","Director of National Parks",FALSE,0,58740,260,2015-07-01,2016-07-01
-"95","Director of National Parks",FALSE,0,60002,275,2014-07-01,2015-07-01
-"96","Fair Work Commission",FALSE,79675,2000,321,2019-07-01,2020-07-01
-"96","Fair Work Commission",FALSE,76419,2000,314,2018-07-01,2019-07-01
-"96","Fair Work Commission",FALSE,76515,2400,314,2017-07-01,2018-07-01
-"96","Fair Work Commission",FALSE,78629,2429,326,2016-07-01,2017-07-01
-"96","Fair Work Commission",FALSE,81968,2429,336,2015-07-01,2016-07-01
-"96","Fair Work Commission",FALSE,82348,1286,336,2014-07-01,2015-07-01
-"97","Fair Work Ombudsman and Registered Organisations Commission Entity",FALSE,134181,3366,765,2019-07-01,2020-07-01
-"97","Fair Work Ombudsman and Registered Organisations Commission Entity",FALSE,124976,1000,745,2018-07-01,2019-07-01
-"97","Fair Work Ombudsman and Registered Organisations Commission Entity",FALSE,120692,1190,730,2017-07-01,2018-07-01
-"98","Federal Court of Australia",FALSE,296971,3939,1098,2019-07-01,2020-07-01
-"98","Federal Court of Australia",FALSE,269522,3894,1081,2018-07-01,2019-07-01
-"98","Federal Court of Australia",FALSE,263052,3944,1077,2017-07-01,2018-07-01
-"98","Federal Court of Australia",FALSE,255596,3318,1101,2016-07-01,2017-07-01
-"98","Federal Court of Australia",FALSE,98998,2769,400,2015-07-01,2016-07-01
-"98","Federal Court of Australia",FALSE,96746,2733,406,2014-07-01,2015-07-01
-"99","Financial Adviser Standards and Ethics Authority Ltd",FALSE,0,3900,0,2019-07-01,2020-07-01
-"100","Fisheries Research and Development Corporation",FALSE,0,34976,17,2019-07-01,2020-07-01
-"100","Fisheries Research and Development Corporation",FALSE,0,34697,19,2018-07-01,2019-07-01
-"100","Fisheries Research and Development Corporation",FALSE,0,37339,21,2017-07-01,2018-07-01
-"100","Fisheries Research and Development Corporation",FALSE,0,30569,19,2016-07-01,2017-07-01
-"100","Fisheries Research and Development Corporation",FALSE,0,27316,13,2015-07-01,2016-07-01
-"100","Fisheries Research and Development Corporation",FALSE,0,27001,13,2014-07-01,2015-07-01
-"101","Food Standards Australia New Zealand",FALSE,16890,2367,107,2019-07-01,2020-07-01
-"101","Food Standards Australia New Zealand",FALSE,16899,2350,107,2018-07-01,2019-07-01
-"101","Food Standards Australia New Zealand",FALSE,16961,2169,107,2017-07-01,2018-07-01
-"101","Food Standards Australia New Zealand",FALSE,17184,1993,108,2016-07-01,2017-07-01
-"102","Future Fund Management Agency",FALSE,0,0,182,2019-07-01,2020-07-01
-"102","Future Fund Management Agency",FALSE,0,0,162,2018-07-01,2019-07-01
-"102","Future Fund Management Agency",FALSE,0,0,141,2016-07-01,2017-07-01
-"102","Future Fund Management Agency",FALSE,0,0,122,2015-07-01,2016-07-01
-"102","Future Fund Management Agency",FALSE,0,0,120,2014-07-01,2015-07-01
-"103","Geoscience Australia",FALSE,216296,40673,600,2019-07-01,2020-07-01
-"103","Geoscience Australia",FALSE,199461,40129,600,2018-07-01,2019-07-01
-"103","Geoscience Australia",FALSE,155770,43643,600,2017-07-01,2018-07-01
-"103","Geoscience Australia",FALSE,147907,41890,590,2016-07-01,2017-07-01
-"103","Geoscience Australia",FALSE,125824,39900,600,2015-07-01,2016-07-01
-"103","Geoscience Australia",FALSE,129588,0,620,2014-07-01,2015-07-01
-"104","Grains Research and Development Corporation",FALSE,0,194082,79,2019-07-01,2020-07-01
-"104","Grains Research and Development Corporation",FALSE,0,215093,79,2018-07-01,2019-07-01
-"104","Grains Research and Development Corporation",FALSE,0,199605,79,2017-07-01,2018-07-01
-"104","Grains Research and Development Corporation",FALSE,0,199117,79,2016-07-01,2017-07-01
-"104","Grains Research and Development Corporation",FALSE,0,199818,79,2015-07-01,2016-07-01
-"104","Grains Research and Development Corporation",FALSE,0,188615,76,2014-07-01,2015-07-01
-"105","Great Barrier Reef Marine Park Authority",FALSE,47586,15673,224,2019-07-01,2020-07-01
-"105","Great Barrier Reef Marine Park Authority",FALSE,54853,11083,222,2018-07-01,2019-07-01
-"105","Great Barrier Reef Marine Park Authority",FALSE,37797,25865,210,2017-07-01,2018-07-01
-"105","Great Barrier Reef Marine Park Authority",FALSE,28012,21037,210,2016-07-01,2017-07-01
-"105","Great Barrier Reef Marine Park Authority",FALSE,26562,13120,195,2015-07-01,2016-07-01
-"105","Great Barrier Reef Marine Park Authority",FALSE,26847,13320,210,2014-07-01,2015-07-01
-"106","Independent Hospital Pricing Authority",FALSE,0,16144,1,2019-07-01,2020-07-01
-"106","Independent Hospital Pricing Authority",FALSE,0,16037,1,2018-07-01,2019-07-01
-"106","Independent Hospital Pricing Authority",FALSE,0,16422,1,2017-07-01,2018-07-01
-"106","Independent Hospital Pricing Authority",FALSE,28458,22457,1,2017-07-01,2018-07-01
-"106","Independent Hospital Pricing Authority",FALSE,0,15856,1,2016-07-01,2017-07-01
-"106","Independent Hospital Pricing Authority",FALSE,25877,0,59,2015-07-01,2016-07-01
-"106","Independent Hospital Pricing Authority",FALSE,13449,0,59,2014-07-01,2015-07-01
-"107","Independent Parliamentary Expenses Authority",FALSE,10095,0,59,2019-07-01,2020-07-01
-"107","Independent Parliamentary Expenses Authority",FALSE,9981,0,65,2018-07-01,2019-07-01
-"108","Indigenous Business Australia",FALSE,32437,192431,204,2019-07-01,2020-07-01
-"108","Indigenous Business Australia",FALSE,32612,191422,204,2018-07-01,2019-07-01
-"108","Indigenous Business Australia",FALSE,32983,151065,204,2017-07-01,2018-07-01
-"108","Indigenous Business Australia",FALSE,47152,168807,219,2016-07-01,2017-07-01
-"108","Indigenous Business Australia",FALSE,70808,173640,236,2015-07-01,2016-07-01
-"108","Indigenous Business Australia",FALSE,71208,159044,236,2014-07-01,2015-07-01
-"109","Indigenous Land and Sea Corporation",FALSE,8617,77335,265,2019-07-01,2020-07-01
-"110","Indigenous Land Corporation",FALSE,8749,76490,265,2018-07-01,2019-07-01
-"110","Indigenous Land Corporation",FALSE,8928,56996,265,2017-07-01,2018-07-01
-"110","Indigenous Land Corporation",FALSE,9156,56274,265,2016-07-01,2017-07-01
-"110","Indigenous Land Corporation",FALSE,9389,55412,265,2015-07-01,2016-07-01
-"110","Indigenous Land Corporation",FALSE,9527,54565,265,2014-07-01,2015-07-01
-"111","Infrastructure and Project Financing Agency",FALSE,5725,0,23,2019-07-01,2020-07-01
-"111","Infrastructure and Project Financing Agency",FALSE,4198,0,14,2018-07-01,2019-07-01
-"112","Infrastructure Australia",FALSE,11560,74,30,2019-07-01,2020-07-01
-"112","Infrastructure Australia",FALSE,11514,80,29,2018-07-01,2019-07-01
-"112","Infrastructure Australia",FALSE,11592,75,29,2017-07-01,2018-07-01
-"112","Infrastructure Australia",FALSE,11581,14,25,2016-07-01,2017-07-01
-"112","Infrastructure Australia",FALSE,11768,0,15,2015-07-01,2016-07-01
-"113","Inspector-General of Taxation",FALSE,6480,0,35,2019-07-01,2020-07-01
-"113","Inspector-General of Taxation",FALSE,6481,0,35,2018-07-01,2019-07-01
-"113","Inspector-General of Taxation",FALSE,6525,0,35,2017-07-01,2018-07-01
-"113","Inspector-General of Taxation",FALSE,6594,0,35,2016-07-01,2017-07-01
-"113","Inspector-General of Taxation",FALSE,6730,0,34,2015-07-01,2016-07-01
-"113","Inspector-General of Taxation",FALSE,3359,0,14,2014-07-01,2015-07-01
-"114","IP Australia",FALSE,362,0,1054,2019-07-01,2020-07-01
-"114","IP Australia",FALSE,368,0,1054,2018-07-01,2019-07-01
-"114","IP Australia",FALSE,375,0,1054,2017-07-01,2018-07-01
-"114","IP Australia",FALSE,2092,0,1054,2016-07-01,2017-07-01
-"114","IP Australia",FALSE,2192,0,1054,2015-07-01,2016-07-01
-"114","IP Australia",FALSE,2302,0,1048,2014-07-01,2015-07-01
-"115","Murray-Darling Basin Authority",FALSE,83053,101107,289,2019-07-01,2020-07-01
-"115","Murray-Darling Basin Authority",FALSE,91700,94384,288,2018-07-01,2019-07-01
-"115","Murray-Darling Basin Authority",FALSE,77470,97231,288,2017-07-01,2018-07-01
-"115","Murray-Darling Basin Authority",FALSE,84746,91184,316,2016-07-01,2017-07-01
-"115","Murray-Darling Basin Authority",FALSE,46736,77708,316,2015-07-01,2016-07-01
-"115","Murray-Darling Basin Authority",FALSE,48608,0,290,2014-07-01,2015-07-01
-"116","Museum of Australian Democracy at Old Parliament House",FALSE,18303,1367,73,2019-07-01,2020-07-01
-"116","Museum of Australian Democracy at Old Parliament House",FALSE,19847,1259,74,2018-07-01,2019-07-01
-"116","Museum of Australian Democracy at Old Parliament House",FALSE,18573,0,73,2017-07-01,2018-07-01
-"116","Museum of Australian Democracy at Old Parliament House",FALSE,13381,0,70,2016-07-01,2017-07-01
-"116","Museum of Australian Democracy at Old Parliament House",FALSE,14069,0,70,2015-07-01,2016-07-01
-"116","Museum of Australian Democracy at Old Parliament House",FALSE,15007,0,68,2014-07-01,2015-07-01
-"117","National Archives of Australia",FALSE,73704,2345,345,2019-07-01,2020-07-01
-"117","National Archives of Australia",FALSE,67330,11695,355,2018-07-01,2019-07-01
-"117","National Archives of Australia",FALSE,68450,1810,375,2017-07-01,2018-07-01
-"117","National Archives of Australia",FALSE,75826,2324,390,2016-07-01,2017-07-01
-"117","National Archives of Australia",FALSE,65044,2290,403,2015-07-01,2016-07-01
-"117","National Archives of Australia",FALSE,64920,1259,412,2014-07-01,2015-07-01
-"118","National Australia Day Council Limited",FALSE,0,6614,12,2019-07-01,2020-07-01
-"118","National Australia Day Council Limited",FALSE,0,6281,12,2018-07-01,2019-07-01
-"118","National Australia Day Council Limited",FALSE,0,0,12,2016-07-01,2017-07-01
-"118","National Australia Day Council Limited",FALSE,0,6817,12,2015-07-01,2016-07-01
-"118","National Australia Day Council Limited",FALSE,0,12973,13,2014-07-01,2015-07-01
-"119","National Blood Authority",FALSE,6298,0,54,2019-07-01,2020-07-01
-"119","National Blood Authority",FALSE,6299,0,54,2018-07-01,2019-07-01
-"119","National Blood Authority",FALSE,6158,0,52,2017-07-01,2018-07-01
-"119","National Blood Authority",FALSE,6271,0,52,2016-07-01,2017-07-01
-"119","National Blood Authority",FALSE,5912,0,53,2015-07-01,2016-07-01
-"119","National Blood Authority",FALSE,6638,0,53,2014-07-01,2015-07-01
-"120","National Capital Authority",FALSE,12580,2494,59,2019-07-01,2020-07-01
-"120","National Capital Authority",FALSE,20289,2494,58,2018-07-01,2019-07-01
-"120","National Capital Authority",FALSE,19679,2477,57,2017-07-01,2018-07-01
-"120","National Capital Authority",FALSE,17969,2466,56,2016-07-01,2017-07-01
-"120","National Capital Authority",FALSE,18204,1955,56,2015-07-01,2016-07-01
-"120","National Capital Authority",FALSE,17466,1940,56,2014-07-01,2015-07-01
-"121","National Competition Council",FALSE,1700,0,1,2019-07-01,2020-07-01
-"121","National Competition Council",FALSE,1990,0,1,2018-07-01,2019-07-01
-"121","National Competition Council",FALSE,5970,0,8,2017-07-01,2018-07-01
-"121","National Competition Council",FALSE,1727,0,1,2016-07-01,2017-07-01
-"121","National Competition Council",FALSE,1740,0,1,2015-07-01,2016-07-01
-"121","National Competition Council",FALSE,1945,0,4,2014-07-01,2015-07-01
-"122","National Disability Insurance Scheme Launch Transition Agency",FALSE,1408255,14785949,3230,2019-07-01,2020-07-01
-"122","National Disability Insurance Scheme Launch Transition Agency",FALSE,1477674,13193421,3000,2018-07-01,2019-07-01
-"122","National Disability Insurance Scheme Launch Transition Agency",FALSE,807998,1814802,1749,2016-07-01,2017-07-01
-"123","National Film and Sound Archive of Australia",FALSE,25243,2429,164,2019-07-01,2020-07-01
-"123","National Film and Sound Archive of Australia",FALSE,27443,2039,164,2018-07-01,2019-07-01
-"123","National Film and Sound Archive of Australia",FALSE,25830,1967,164,2017-07-01,2018-07-01
-"123","National Film and Sound Archive of Australia",FALSE,25130,1700,164,2016-07-01,2017-07-01
-"123","National Film and Sound Archive of Australia",FALSE,26612,1718,173,2015-07-01,2016-07-01
-"123","National Film and Sound Archive of Australia",FALSE,26753,2170,178,2014-07-01,2015-07-01
-"124","National Gallery of Australia",FALSE,66828,23213,217,2019-07-01,2020-07-01
-"124","National Gallery of Australia",FALSE,53279,22695,217,2018-07-01,2019-07-01
-"124","National Gallery of Australia",FALSE,47415,11936,217,2017-07-01,2018-07-01
-"124","National Gallery of Australia",FALSE,48055,11896,217,2016-07-01,2017-07-01
-"124","National Gallery of Australia",FALSE,49914,11685,237,2015-07-01,2016-07-01
-"124","National Gallery of Australia",FALSE,50303,11585,245,2014-07-01,2015-07-01
-"125","National Health and Medical Research Council",FALSE,37906,5124,181,2019-07-01,2020-07-01
-"125","National Health and Medical Research Council",FALSE,38012,6846,180,2018-07-01,2019-07-01
-"125","National Health and Medical Research Council",FALSE,43055,1500,177,2017-07-01,2018-07-01
-"125","National Health and Medical Research Council",FALSE,37622,1500,179,2016-07-01,2017-07-01
-"125","National Health and Medical Research Council",FALSE,44441,1500,190,2015-07-01,2016-07-01
-"125","National Health and Medical Research Council",FALSE,42159,2000,208,2014-07-01,2015-07-01
-"126","National Health Funding Body",FALSE,5570,0,21,2019-07-01,2020-07-01
-"126","National Health Funding Body",FALSE,5378,0,21,2018-07-01,2019-07-01
-"126","National Health Funding Body",FALSE,5844,0,21,2017-07-01,2018-07-01
-"126","National Health Funding Body",FALSE,4307,0,19,2016-07-01,2017-07-01
-"126","National Health Funding Body",FALSE,4315,0,19,2015-07-01,2016-07-01
-"126","National Health Funding Body",FALSE,4348,0,19,2014-07-01,2015-07-01
-"127","National Housing Finance and Investment Corporation",FALSE,0,41438,0,2019-07-01,2020-07-01
-"128","National Library of Australia",FALSE,64528,9878,371,2019-07-01,2020-07-01
-"128","National Library of Australia",FALSE,65071,10138,371,2018-07-01,2019-07-01
-"128","National Library of Australia",FALSE,61399,12526,383,2017-07-01,2018-07-01
-"128","National Library of Australia",FALSE,57763,12664,393,2016-07-01,2017-07-01
-"128","National Library of Australia",FALSE,59904,14639,421,2015-07-01,2016-07-01
-"128","National Library of Australia",FALSE,60160,12313,412,2014-07-01,2015-07-01
-"129","National Mental Health Commission",FALSE,7200,530,29,2019-07-01,2020-07-01
-"129","National Mental Health Commission",FALSE,5867,2050,26,2018-07-01,2019-07-01
-"129","National Mental Health Commission",FALSE,2736,0,14,2017-07-01,2018-07-01
-"129","National Mental Health Commission",FALSE,2928,0,14,2016-07-01,2017-07-01
-"129","National Mental Health Commission",FALSE,2826,0,14,2015-07-01,2016-07-01
-"129","National Mental Health Commission",FALSE,2866,0,13,2014-07-01,2015-07-01
-"130","National Museum of Australia",FALSE,46524,9061,226,2019-07-01,2020-07-01
-"130","National Museum of Australia",FALSE,47076,5985,226,2018-07-01,2019-07-01
-"130","National Museum of Australia",FALSE,43365,6714,226,2017-07-01,2018-07-01
-"130","National Museum of Australia",FALSE,41264,5654,226,2016-07-01,2017-07-01
-"130","National Museum of Australia",FALSE,43385,4271,213,2015-07-01,2016-07-01
-"130","National Museum of Australia",FALSE,43554,4139,218,2014-07-01,2015-07-01
-"131","National Offshore Petroleum Safety and Environmental Management Authority",FALSE,0,37212,135,2019-07-01,2020-07-01
-"131","National Offshore Petroleum Safety and Environmental Management Authority",FALSE,0,34843,135,2018-07-01,2019-07-01
-"131","National Offshore Petroleum Safety and Environmental Management Authority",FALSE,0,32373,115,2017-07-01,2018-07-01
-"131","National Offshore Petroleum Safety and Environmental Management Authority",FALSE,0,32406,135,2016-07-01,2017-07-01
-"131","National Offshore Petroleum Safety and Environmental Management Authority",FALSE,0,38019,135,2015-07-01,2016-07-01
-"131","National Offshore Petroleum Safety and Environmental Management Authority",FALSE,150,0,135,2014-07-01,2015-07-01
-"132","National Portrait Gallery of Australia",FALSE,11844,2596,49,2019-07-01,2020-07-01
-"132","National Portrait Gallery of Australia",FALSE,11876,2534,49,2018-07-01,2019-07-01
-"132","National Portrait Gallery of Australia",FALSE,11002,2413,49,2017-07-01,2018-07-01
-"132","National Portrait Gallery of Australia",FALSE,11154,2257,48,2016-07-01,2017-07-01
-"132","National Portrait Gallery of Australia",FALSE,11704,2155,51,2015-07-01,2016-07-01
-"132","National Portrait Gallery of Australia",FALSE,11686,1691,52,2014-07-01,2015-07-01
-"133","National Transport Commission",FALSE,3535,6595,41,2019-07-01,2020-07-01
-"133","National Transport Commission",FALSE,3476,6485,41,2018-07-01,2019-07-01
-"133","National Transport Commission",FALSE,3400,6758,39,2017-07-01,2018-07-01
-"133","National Transport Commission",FALSE,3358,6276,39,2016-07-01,2017-07-01
-"133","National Transport Commission",FALSE,3301,6166,39,2015-07-01,2016-07-01
-"133","National Transport Commission",FALSE,3242,6053,40,2014-07-01,2015-07-01
-"134","NDIS Quality and Safeguards Commission",FALSE,50437,0,237,2019-07-01,2020-07-01
-"135","North Queensland Livestock Industry Recovery Agency",FALSE,9491,0,34,2019-07-01,2020-07-01
-"136","North Queensland Water Infrastructure Authority",FALSE,2687,0,10,2019-07-01,2020-07-01
-"137","Northern Australia Infrastructure Facility",FALSE,10340,30,1,2019-07-01,2020-07-01
-"137","Northern Australia Infrastructure Facility",FALSE,9505,30,1,2018-07-01,2019-07-01
-"137","Northern Australia Infrastructure Facility",FALSE,8504,0,1,2017-07-01,2018-07-01
-"138","Office of National Assessments",FALSE,57989,0,215,2018-07-01,2019-07-01
-"138","Office of National Assessments",FALSE,35928,0,144,2017-07-01,2018-07-01
-"138","Office of National Assessments",FALSE,35350,0,138,2016-07-01,2017-07-01
-"138","Office of National Assessments",FALSE,34208,0,138,2015-07-01,2016-07-01
-"138","Office of National Assessments",FALSE,32548,0,130,2014-07-01,2015-07-01
-"139","Office of National Intelligence",FALSE,70553,0,267,2019-07-01,2020-07-01
-"140","Office of Parliamentary Counsel",FALSE,17298,5917,118,2019-07-01,2020-07-01
-"140","Office of Parliamentary Counsel",FALSE,16135,5999,109,2018-07-01,2019-07-01
-"140","Office of Parliamentary Counsel",FALSE,15204,6214,103,2017-07-01,2018-07-01
-"140","Office of Parliamentary Counsel",FALSE,14085,6246,97,2016-07-01,2017-07-01
-"140","Office of Parliamentary Counsel",FALSE,15195,6290,97,2015-07-01,2016-07-01
-"140","Office of Parliamentary Counsel",FALSE,15798,5725,99,2014-07-01,2015-07-01
-"141","Office of the Auditing and Assurance Standards Board",FALSE,2398,0,8,2019-07-01,2020-07-01
-"141","Office of the Auditing and Assurance Standards Board",FALSE,2117,0,7,2018-07-01,2019-07-01
-"141","Office of the Auditing and Assurance Standards Board",FALSE,2133,0,7,2017-07-01,2018-07-01
-"141","Office of the Auditing and Assurance Standards Board",FALSE,2163,3,7,2016-07-01,2017-07-01
-"141","Office of the Auditing and Assurance Standards Board",FALSE,2198,36,7,2015-07-01,2016-07-01
-"141","Office of the Auditing and Assurance Standards Board",FALSE,2226,35,7,2014-07-01,2015-07-01
-"142","Office of the Australian Accounting Standards Board",FALSE,3598,1124,22,2019-07-01,2020-07-01
-"142","Office of the Australian Accounting Standards Board",FALSE,3597,1127,22,2018-07-01,2019-07-01
-"142","Office of the Australian Accounting Standards Board",FALSE,3627,777,22,2017-07-01,2018-07-01
-"142","Office of the Australian Accounting Standards Board",FALSE,3677,710,22,2016-07-01,2017-07-01
-"142","Office of the Australian Accounting Standards Board",FALSE,3730,767,22,2015-07-01,2016-07-01
-"142","Office of the Australian Accounting Standards Board",FALSE,3781,850,22,2014-07-01,2015-07-01
-"143","Office of the Australian Information Commissioner",FALSE,23270,178,124,2019-07-01,2020-07-01
-"143","Office of the Australian Information Commissioner",FALSE,14356,2170,93,2018-07-01,2019-07-01
-"143","Office of the Australian Information Commissioner",FALSE,10361,3587,75,2017-07-01,2018-07-01
-"143","Office of the Australian Information Commissioner",FALSE,10622,3777,75,2016-07-01,2017-07-01
-"143","Office of the Australian Information Commissioner",FALSE,8537,3153,72,2015-07-01,2016-07-01
-"143","Office of the Australian Information Commissioner",FALSE,7191,3153,39,2014-07-01,2015-07-01
-"144","Office of the Commonwealth Ombudsman",FALSE,36544,3378,220,2019-07-01,2020-07-01
-"144","Office of the Commonwealth Ombudsman",FALSE,36045,2330,222,2018-07-01,2019-07-01
-"144","Office of the Commonwealth Ombudsman",FALSE,24281,14949,200,2017-07-01,2018-07-01
-"144","Office of the Commonwealth Ombudsman",FALSE,20933,1860,149,2016-07-01,2017-07-01
-"144","Office of the Commonwealth Ombudsman",FALSE,22643,2422,149,2015-07-01,2016-07-01
-"144","Office of the Commonwealth Ombudsman",FALSE,17959,1695,129,2014-07-01,2015-07-01
-"145","Office of the Director of Public Prosecutions",FALSE,87848,10875,383,2019-07-01,2020-07-01
-"145","Office of the Director of Public Prosecutions",FALSE,78066,9268,387,2018-07-01,2019-07-01
-"145","Office of the Director of Public Prosecutions",FALSE,81774,7424,390,2017-07-01,2018-07-01
-"145","Office of the Director of Public Prosecutions",FALSE,79185,7392,390,2016-07-01,2017-07-01
-"145","Office of the Director of Public Prosecutions",FALSE,77941,7784,413,2015-07-01,2016-07-01
-"145","Office of the Director of Public Prosecutions",FALSE,78660,3450,412,2014-07-01,2015-07-01
-"146","Office of the Inspector-General of Intelligence and Security",FALSE,14839,27,55,2019-07-01,2020-07-01
-"146","Office of the Inspector-General of Intelligence and Security",FALSE,9917,127,42,2018-07-01,2019-07-01
-"146","Office of the Inspector-General of Intelligence and Security",FALSE,3182,0,17,2017-07-01,2018-07-01
-"146","Office of the Inspector-General of Intelligence and Security",FALSE,3143,0,17,2016-07-01,2017-07-01
-"146","Office of the Inspector-General of Intelligence and Security",FALSE,3075,0,16,2015-07-01,2016-07-01
-"146","Office of the Inspector-General of Intelligence and Security",FALSE,2189,0,11,2014-07-01,2015-07-01
-"147","Office of the Official Secretary to the Governor-General",FALSE,14600,171,80,2019-07-01,2020-07-01
-"147","Office of the Official Secretary to the Governor-General",FALSE,12629,0,80,2018-07-01,2019-07-01
-"147","Office of the Official Secretary to the Governor-General",FALSE,11323,0,76,2017-07-01,2018-07-01
-"147","Office of the Official Secretary to the Governor-General",FALSE,11475,0,76,2016-07-01,2017-07-01
-"147","Office of the Official Secretary to the Governor-General",FALSE,11629,0,75,2015-07-01,2016-07-01
-"147","Office of the Official Secretary to the Governor-General",FALSE,11777,0,80,2014-07-01,2015-07-01
-"148","Outback Stores Pty Ltd",FALSE,0,18931,163,2019-07-01,2020-07-01
-"148","Outback Stores Pty Ltd",FALSE,0,23053,157,2018-07-01,2019-07-01
-"148","Outback Stores Pty Ltd",FALSE,0,23053,152,2017-07-01,2018-07-01
-"148","Outback Stores Pty Ltd",FALSE,0,23053,158,2016-07-01,2017-07-01
-"149","Productivity Commission",FALSE,34341,145,176,2019-07-01,2020-07-01
-"149","Productivity Commission",FALSE,34367,9,176,2018-07-01,2019-07-01
-"149","Productivity Commission",FALSE,35060,272,174,2017-07-01,2018-07-01
-"149","Productivity Commission",FALSE,34233,1007,167,2016-07-01,2017-07-01
-"149","Productivity Commission",FALSE,33744,1036,167,2015-07-01,2016-07-01
-"149","Productivity Commission",FALSE,34118,825,170,2014-07-01,2015-07-01
-"150","Professional Services Review",FALSE,9585,0,25,2019-07-01,2020-07-01
-"150","Professional Services Review",FALSE,6068,0,23,2018-07-01,2019-07-01
-"150","Professional Services Review",FALSE,5691,0,18,2017-07-01,2018-07-01
-"150","Professional Services Review",FALSE,5278,0,18,2016-07-01,2017-07-01
-"150","Professional Services Review",FALSE,5533,0,17,2015-07-01,2016-07-01
-"150","Professional Services Review",FALSE,5742,0,17,2014-07-01,2015-07-01
-"151","Regional Investment Corporation",FALSE,15414,0,32,2019-07-01,2020-07-01
-"151","Regional Investment Corporation",FALSE,12555,4773,32,2018-07-01,2019-07-01
-"152","Royal Australian Mint",FALSE,0,0,239,2019-07-01,2020-07-01
-"152","Royal Australian Mint",FALSE,0,0,241,2018-07-01,2019-07-01
-"152","Royal Australian Mint",FALSE,0,0,232,2017-07-01,2018-07-01
-"152","Royal Australian Mint",FALSE,0,0,215,2016-07-01,2017-07-01
-"152","Royal Australian Mint",FALSE,0,0,219,2015-07-01,2016-07-01
-"152","Royal Australian Mint",FALSE,0,0,228,2014-07-01,2015-07-01
-"153","Rural Industries Research and Development Corporation",FALSE,0,39370,20,2019-07-01,2020-07-01
-"153","Rural Industries Research and Development Corporation",FALSE,0,26490,18,2018-07-01,2019-07-01
-"153","Rural Industries Research and Development Corporation",FALSE,0,27224,17,2017-07-01,2018-07-01
-"153","Rural Industries Research and Development Corporation",FALSE,0,21106,19,2016-07-01,2017-07-01
-"153","Rural Industries Research and Development Corporation",FALSE,0,18997,19,2015-07-01,2016-07-01
-"153","Rural Industries Research and Development Corporation",FALSE,0,20076,23,2014-07-01,2015-07-01
-"154","Safe Work Australia",FALSE,10521,0,101,2019-07-01,2020-07-01
-"154","Safe Work Australia",FALSE,10323,0,101,2018-07-01,2019-07-01
-"154","Safe Work Australia",FALSE,10095,0,101,2017-07-01,2018-07-01
-"154","Safe Work Australia",FALSE,9821,0,101,2016-07-01,2017-07-01
-"154","Safe Work Australia",FALSE,9705,0,101,2015-07-01,2016-07-01
-"154","Safe Work Australia",FALSE,9832,0,101,2014-07-01,2015-07-01
-"155","Screen Australia",FALSE,11331,77264,97,2019-07-01,2020-07-01
-"155","Screen Australia",FALSE,11335,77364,97,2018-07-01,2019-07-01
-"155","Screen Australia",FALSE,11394,77795,97,2017-07-01,2018-07-01
-"155","Screen Australia",FALSE,13983,78673,97,2016-07-01,2017-07-01
-"155","Screen Australia",FALSE,16720,80835,100,2015-07-01,2016-07-01
-"155","Screen Australia",FALSE,17956,82372,108,2014-07-01,2015-07-01
-"156","Seafarers Safety, Rehabilitation and Compensation Authority",FALSE,0,0,0,2019-07-01,2020-07-01
-"157","Special Broadcasting Service Corporation",FALSE,290054,103796,1130,2019-07-01,2020-07-01
-"157","Special Broadcasting Service Corporation",FALSE,281726,104777,1149,2018-07-01,2019-07-01
-"157","Special Broadcasting Service Corporation",FALSE,280058,101626,1095,2017-07-01,2018-07-01
-"157","Special Broadcasting Service Corporation",FALSE,281598,97438,1020,2016-07-01,2017-07-01
-"157","Special Broadcasting Service Corporation",FALSE,283270,90535,1020,2015-07-01,2016-07-01
-"157","Special Broadcasting Service Corporation",FALSE,287074,112441,1081,2014-07-01,2015-07-01
-"158","Sydney Harbour Federation Trust",FALSE,1700,18359,63,2019-07-01,2020-07-01
-"158","Sydney Harbour Federation Trust",FALSE,0,18806,63,2018-07-01,2019-07-01
-"158","Sydney Harbour Federation Trust",FALSE,0,17663,63,2017-07-01,2018-07-01
-"158","Sydney Harbour Federation Trust",FALSE,0,17093,62,2016-07-01,2017-07-01
-"158","Sydney Harbour Federation Trust",FALSE,0,17283,64,2015-07-01,2016-07-01
-"158","Sydney Harbour Federation Trust",FALSE,0,15481,58,2014-07-01,2015-07-01
-"159","Tertiary Education Quality and Standards Agency",FALSE,18385,323,95,2019-07-01,2020-07-01
-"159","Tertiary Education Quality and Standards Agency",FALSE,19584,263,93,2018-07-01,2019-07-01
-"159","Tertiary Education Quality and Standards Agency",FALSE,12223,302,48,2016-07-01,2017-07-01
-"159","Tertiary Education Quality and Standards Agency",FALSE,12328,15,60,2015-07-01,2016-07-01
-"159","Tertiary Education Quality and Standards Agency",FALSE,16516,15,74,2014-07-01,2015-07-01
-"160","Torres Strait Regional Authority",FALSE,35897,12318,154,2019-07-01,2020-07-01
-"160","Torres Strait Regional Authority",FALSE,37872,11510,154,2018-07-01,2019-07-01
-"160","Torres Strait Regional Authority",FALSE,37056,11830,154,2017-07-01,2018-07-01
-"160","Torres Strait Regional Authority",FALSE,35919,11688,150,2016-07-01,2017-07-01
-"160","Torres Strait Regional Authority",FALSE,39498,11432,150,2015-07-01,2016-07-01
-"160","Torres Strait Regional Authority",FALSE,48159,9885,146,2014-07-01,2015-07-01
-"161","Tourism Australia",FALSE,135618,39800,207,2019-07-01,2020-07-01
-"161","Tourism Australia",FALSE,132488,35127,207,2018-07-01,2019-07-01
-"161","Tourism Australia",FALSE,129308,0,207,2017-07-01,2018-07-01
-"161","Tourism Australia",FALSE,140266,0,207,2016-07-01,2017-07-01
-"161","Tourism Australia",FALSE,137290,0,207,2015-07-01,2016-07-01
-"161","Tourism Australia",FALSE,129872,1750,204,2014-07-01,2015-07-01
-"162","Wine Australia",FALSE,0,70001,53,2019-07-01,2020-07-01
-"163","Workplace Gender Equality Agency",FALSE,8586,100,33,2019-07-01,2020-07-01
-"163","Workplace Gender Equality Agency",FALSE,5055,100,30,2018-07-01,2019-07-01
-"163","Workplace Gender Equality Agency",FALSE,5085,100,30,2016-07-01,2017-07-01
-"163","Workplace Gender Equality Agency",FALSE,5132,100,29,2015-07-01,2016-07-01
-"163","Workplace Gender Equality Agency",FALSE,5026,300,29,2014-07-01,2015-07-01
+"vertex.id"
+"1"
+"2"
+"3"
+"4"
+"5"
+"6"
+"7"
+"8"
+"9"
+"10"
+"11"
+"12"
+"13"
+"14"
+"15"
+"16"
+"17"
+"18"
+"19"
+"20"
+"21"
+"22"
+"23"
+"24"
+"25"
+"26"
+"27"
+"28"
+"29"
+"30"
+"31"
+"32"
+"33"
+"34"
+"35"
+"36"
+"37"
+"38"
+"39"
+"41"
+"42"
+"43"
+"44"
+"45"
+"46"
+"47"
+"48"
+"49"
+"50"
+"51"
+"52"
+"53"
+"54"
+"55"
+"56"
+"57"
+"58"
+"59"
+"60"
+"61"
+"62"
+"63"
+"64"
+"65"
+"66"
+"67"
+"68"
+"69"
+"70"
+"71"
+"72"
+"73"
+"74"
+"75"
+"76"
+"77"
+"78"
+"79"
+"80"
+"81"
+"82"
+"83"
+"84"
+"85"
+"86"
+"87"
+"88"
+"89"
+"90"
+"91"
+"92"
+"93"
+"94"
+"95"
+"96"
+"97"
+"98"
+"99"
+"100"
+"101"
+"102"
+"103"
+"104"
+"105"
+"106"
+"108"
+"109"
+"110"
+"111"
+"112"
+"113"
+"114"
+"115"
+"116"
+"117"
+"118"
+"119"
+"120"
+"121"
+"122"
+"123"
+"124"
+"125"
+"126"
+"127"
+"128"
+"129"
+"130"
+"131"
+"132"
+"133"
+"134"
+"135"
+"136"
+"137"
+"138"
+"139"
+"140"
+"141"
+"142"
+"143"
+"144"
+"145"
+"146"
+"147"
+"148"
+"149"
+"150"
+"151"
+"152"
+"153"
+"154"
+"155"
+"156"
+"157"
+"158"
+"159"
+"161"
+"162"
+"163"
+"164"
+"165"
+"166"
+"167"
+"168"
+"169"
+"170"
+"171"
+"172"
+"173"
