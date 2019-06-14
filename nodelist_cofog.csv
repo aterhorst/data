@@ -1,0 +1,192 @@
+vertex.id,agency,portfolio,cofog,onset,terminus
+1,Aboriginal Hostels Limited,FALSE,Housing and community amenities,1/7/14,1/7/20
+2,Administrative Appeals Tribunal,FALSE,General public services,1/7/14,1/7/20
+3,Aged Care Quality and Safety Commission,FALSE,Social protection,1/7/14,1/7/20
+4,Army Amenities Fund Company,FALSE,Defence,1/7/14,1/7/20
+5,Army and Air Force Canteen Service,FALSE,Defence,1/7/14,1/7/20
+6,Asbestos Safety and Eradication Agency,FALSE,Environmental protection,1/7/14,1/7/20
+7,Attorney-General's Department,TRUE,Public order and safety,1/7/14,1/7/20
+8,Australia Business Arts Foundation,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+9,Australia Council,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+10,Australian Aged Care Quality Agency,FALSE,Social protection,1/7/14,1/7/19
+11,Australian Broadcasting Corporation,FALSE,General public services,1/7/14,1/7/20
+12,Australian Building and Construction Commission,FALSE,General public services,1/7/14,1/7/20
+13,Australian Bureau of Statistics,FALSE,General public services,1/7/14,1/7/20
+14,Australian Centre for International Agricultural Research,FALSE,General public services,1/7/14,1/7/20
+15,Australian Commission for Law Enforcement Integrity,FALSE,Public order and safety,1/7/14,1/7/20
+16,Australian Commission on Safety and Quality in Health Care,FALSE,Social protection,1/7/14,1/7/20
+17,Australian Communications and Media Authority,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+18,Australian Competition and Consumer Commission,FALSE,Social protection,1/7/14,1/7/20
+19,Australian Crime Commission,FALSE,Public order and safety,1/7/14,1/7/19
+20,Australian Criminal Intelligence Commission,FALSE,Public order and safety,1/7/14,1/7/20
+21,"Australian Curriculum, Assessment and Reporting Authority",FALSE,Education,1/7/14,1/7/20
+22,Australian Customs and Border Protection Service,FALSE,Public order and safety,1/7/14,1/7/18
+23,Australian Digital Health Agency,FALSE,General public services,1/7/14,1/7/20
+24,Australian Electoral Commission,FALSE,General public services,1/7/14,1/7/20
+25,Australian Federal Police,FALSE,Public order and safety,1/7/14,1/7/20
+26,"Australian Film, Television and Radio School",FALSE,Education,1/7/14,1/7/20
+27,Australian Financial Security Authority,FALSE,Economic affairs,1/7/14,1/7/20
+28,Australian Fisheries Management Authority,FALSE,Environmental protection,1/7/14,1/7/20
+29,Australian Grape and Wine Authority,FALSE,Economic affairs,1/7/14,1/7/19
+30,Australian Human Rights Commission,FALSE,Social protection,1/7/14,1/7/20
+31,Australian Institute for Teaching and School Leadership Limited,FALSE,Education,1/7/14,1/7/20
+32,Australian Institute of Aboriginal and Torres Strait Islander Studies,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+33,Australian Institute of Criminology,FALSE,Public order and safety,1/7/14,1/7/20
+34,Australian Institute of Family Studies,FALSE,Social protection,1/7/14,1/7/20
+35,Australian Institute of Health and Welfare,FALSE,Health,1/7/14,1/7/20
+36,Australian Institute of Marine Science,FALSE,Environmental protection,1/7/14,1/7/20
+37,Australian Law Reform Commission,FALSE,Public order and safety,1/7/14,1/7/20
+38,Australian Maritime Safety Authority,FALSE,Public order and safety,1/7/14,1/7/20
+39,Australian Military Forces Relief Trust Fund,FALSE,Defence,1/7/14,1/7/20
+40,Australian National Audit Office,FALSE,Economic affairs,1/7/14,1/7/20
+41,Australian National Maritime Museum,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+42,Australian Nuclear Science and Technology Organisation,FALSE,General public services,1/7/14,1/7/20
+43,Australian Office of Financial Management,FALSE,Economic affairs,1/7/14,1/7/20
+44,Australian Organ and Tissue Donation and Transplantation Authority,FALSE,Health,1/7/14,1/7/19
+45,Australian Pesticides and Veterinary Medicines Authority,FALSE,General public services,1/7/14,1/7/20
+46,Australian Prudential Regulation Authority,FALSE,Economic affairs,1/7/14,1/7/20
+47,Australian Public Service Commission,FALSE,General public services,1/7/14,1/7/20
+48,Australian Radiation Protection and Nuclear Safety Agency,FALSE,Environmental protection,1/7/14,1/7/20
+49,Australian Renewable Energy Agency,FALSE,General public services,1/7/14,1/7/20
+50,Australian Research Council,FALSE,General public services,1/7/14,1/7/20
+51,Australian Secret Intelligence Service,FALSE,Public order and safety,1/7/14,1/7/20
+52,Australian Securities and Investments Commission,FALSE,Economic affairs,1/7/14,1/7/20
+53,Australian Security Intelligence Organisation,FALSE,Public order and safety,1/7/14,1/7/20
+54,Australian Signals Directorate,FALSE,Defence,1/7/14,1/7/20
+55,Australian Sports Anti-Doping Authority,FALSE,General public services,1/7/14,1/7/20
+56,Australian Sports Commission,FALSE,General public services,1/7/14,1/7/20
+57,Australian Sports Foundation Limited,FALSE,General public services,1/7/14,1/7/20
+58,Australian Strategic Policy Institute Limited,FALSE,General public services,1/7/14,1/7/20
+59,Australian Taxation Office,FALSE,Economic affairs,1/7/14,1/7/20
+60,Australian Trade and Investment Commission,FALSE,Economic affairs,1/7/14,1/7/20
+61,Australian Trade Commission,FALSE,Economic affairs,1/7/14,1/7/19
+62,Australian Transaction Reports and Analysis Centre,FALSE,Economic affairs,1/7/14,1/7/20
+63,Australian Transport Safety Bureau,FALSE,General public services,1/7/14,1/7/20
+64,Australian War Memorial,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+65,Bundanon Trust,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+66,Bureau of Meteorology,FALSE,General public services,1/7/14,1/7/20
+67,Cancer Australia,FALSE,Health,1/7/14,1/7/20
+68,Civil Aviation Safety Authority,FALSE,General public services,1/7/14,1/7/20
+69,Clean Energy Finance Corporation,FALSE,Economic affairs,1/7/14,1/7/20
+70,Clean Energy Regulator,FALSE,General public services,1/7/14,1/7/20
+71,Climate Change Authority,FALSE,General public services,1/7/14,1/7/20
+72,Comcare,FALSE,Social protection,1/7/14,1/7/20
+73,Commonwealth Grants Commission,FALSE,General public services,1/7/14,1/7/20
+74,Commonwealth Scientific and Industrial Research Organisation,FALSE,General public services,1/7/14,1/7/20
+75,Commonwealth Superannuation Corporation,FALSE,Economic affairs,1/7/14,1/7/20
+76,Corporations and Markets Advisory Committee,FALSE,Economic affairs,1/7/14,1/7/19
+77,Cotton Research and Development Corporation,FALSE,General public services,1/7/14,1/7/20
+78,CrimTrac Agency,FALSE,Public order and safety,1/7/14,1/7/19
+79,Defence Housing Australia,FALSE,Defence,1/7/14,1/7/20
+80,Defence Materiel Organisation,FALSE,Defence,1/7/14,1/7/19
+81,Department of Agriculture,TRUE,General public services,1/7/14,1/7/20
+82,Department of Agriculture and Water Resources,TRUE,General public services,1/7/14,1/7/20
+83,Department of Communications,TRUE,General public services,1/7/14,1/7/16
+84,Department of Communications and the Arts,TRUE,General public services,1/7/16,1/7/20
+85,Department of Defence,TRUE,Defence,1/7/14,1/7/20
+86,Department of Education,TRUE,Education,1/7/14,1/7/20
+87,Department of Education and Training,TRUE,Education,1/7/14,1/7/20
+88,Department of Employment,TRUE,Economic affairs,1/7/14,1/7/18
+89,Department of Finance,TRUE,Economic affairs,1/7/14,1/7/20
+90,Department of Foreign Affairs and Trade,TRUE,General public services,1/7/14,1/7/20
+91,Department of Health,TRUE,Health,1/7/14,1/7/20
+92,Department of Home Affairs,TRUE,General public services,1/7/18,1/7/20
+93,Department of Human Services,TRUE,General public services,1/7/14,1/7/19
+94,Department of Immigration and Border Protection,TRUE,Public order and safety,1/7/14,1/7/18
+95,Department of Industry,TRUE,Economic affairs,1/7/14,1/7/15
+96,Department of Industry and Science,TRUE,Economic affairs,1/7/14,1/7/20
+97,"Department of Industry, Innovation and Science",TRUE,Economic affairs,1/7/16,1/7/20
+98,Department of Infrastructure and Regional Development,TRUE,General public services,1/7/14,1/7/18
+99,"Department of Infrastructure, Regional Development and Cities",TRUE,General public services,1/7/14,1/7/20
+100,Department of Jobs and Small Business,TRUE,Economic affairs,1/7/14,1/7/20
+101,Department of Social Services,TRUE,Social protection,1/7/14,1/7/20
+102,Department of the Environment,TRUE,Environmental protection,1/7/14,1/7/16
+103,Department of the Environment and Energy,TRUE,Environmental protection,1/7/17,1/7/20
+104,Department of the Prime Minister and Cabinet,FALSE,General public services,1/7/14,1/7/20
+105,Department of the Treasury,TRUE,Economic affairs,1/7/14,1/7/20
+106,Department of Veterans' Affairs,TRUE,Defence,1/7/14,1/7/20
+107,Digital Transformation Agency,FALSE,General public services,1/7/14,1/7/20
+108,Digital Transformation Office,FALSE,General public services,1/7/14,1/7/19
+109,Director of National Parks,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+110,Fair Work Commission,FALSE,Economic affairs,1/7/14,1/7/20
+111,Fair Work Ombudsman and Registered Organisations Commission Entity,FALSE,Economic affairs,1/7/14,1/7/20
+112,Family Court and Federal Circuit Court,FALSE,General public services,1/7/14,1/7/19
+113,Federal Court of Australia,FALSE,General public services,1/7/14,1/7/20
+114,Financial Adviser Standards and Ethics Authority Ltd,FALSE,Economic affairs,1/7/14,1/7/20
+115,Fisheries Research and Development Corporation,FALSE,General public services,1/7/14,1/7/20
+116,Food Standards Australia New Zealand,FALSE,Health,1/7/14,1/7/20
+117,General Practice Education and Training Limited,FALSE,Health,1/7/14,1/7/19
+118,Geoscience Australia,FALSE,General public services,1/7/14,1/7/20
+119,Grains Research and Development Corporation,FALSE,General public services,1/7/14,1/7/20
+120,Great Barrier Reef Marine Park Authority,FALSE,Environmental protection,1/7/14,1/7/20
+121,Independent Hospital Pricing Authority,FALSE,General public services,1/7/14,1/7/20
+122,Independent Parliamentary Expenses Authority,FALSE,General public services,1/7/14,1/7/20
+123,Indigenous Business Australia,FALSE,Economic affairs,1/7/14,1/7/20
+124,Indigenous Land and Sea Corporation,FALSE,"Recreation, culture, and religion",1/7/19,1/7/20
+125,Indigenous Land Corporation,FALSE,"Recreation, culture, and religion",1/7/14,1/7/19
+126,Infrastructure and Project Financing Agency,FALSE,Economic affairs,1/7/14,1/7/20
+127,Infrastructure Australia,FALSE,General public services,1/7/14,1/7/20
+128,Inspector-General of Taxation,FALSE,Economic affairs,1/7/14,1/7/20
+129,IP Australia,FALSE,General public services,1/7/14,1/7/20
+130,Migration Review Tribunal and Refugee Review Tribunal,FALSE,General public services,1/7/14,1/7/18
+131,Murray-Darling Basin Authority,FALSE,Environmental protection,1/7/14,1/7/20
+132,Museum of Australian Democracy at Old Parliament House,FALSE,"Recreation, culture, and religion",1/7/14,1/7/19
+133,National Archives of Australia,FALSE,General public services,1/7/14,1/7/20
+134,National Australia Day Council Limited,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+135,National Blood Authority,FALSE,Health,1/7/14,1/7/20
+136,National Capital Authority,FALSE,General public services,1/7/14,1/7/20
+137,National Competition Council,FALSE,Economic affairs,1/7/14,1/7/20
+138,National Disability Insurance Agency,FALSE,Social protection,1/7/14,1/7/19
+139,National Disability Insurance Scheme Launch Transition Agency,FALSE,Social protection,1/7/14,1/7/20
+140,National Film and Sound Archive of Australia,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+141,National Gallery of Australia,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+142,National Health and Medical Research Council,FALSE,Health,1/7/14,1/7/20
+143,National Health Funding Body,FALSE,Health,1/7/14,1/7/20
+144,National Health Performance Authority,FALSE,Health,1/7/14,1/7/19
+145,National Housing Finance and Investment Corporation,FALSE,Housing and community amenities,1/7/14,1/7/20
+146,National Library of Australia,FALSE,General public services,1/7/14,1/7/20
+147,National Mental Health Commission,FALSE,Health,1/7/14,1/7/20
+148,National Museum of Australia,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+149,National Offshore Petroleum Safety and Environmental Management Authority,FALSE,Economic affairs,1/7/14,1/7/20
+150,National Portrait Gallery of Australia,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+151,National Transport Commission,FALSE,General public services,1/7/14,1/7/20
+152,National Water Commission,FALSE,Environmental protection,1/7/14,1/7/16
+153,NDIS Quality and Safeguards Commission,FALSE,Social protection,1/7/14,1/7/20
+154,North Queensland Livestock Industry Recovery Agency,FALSE,Social protection,1/7/19,1/7/20
+155,North Queensland Water Infrastructure Authority,FALSE,Environmental protection,1/7/19,1/7/20
+156,Northern Australia Infrastructure Facility,FALSE,General public services,1/7/16,1/7/20
+157,Office of National Assessments,FALSE,General public services,1/7/14,1/7/19
+158,Office of National Intelligence,FALSE,Defence,1/7/14,1/7/20
+159,Office of Parliamentary Counsel,FALSE,General public services,1/7/14,1/7/20
+160,Office of the Auditing and Assurance Standards Board,FALSE,Economic affairs,1/7/14,1/7/20
+161,Office of the Australian Accounting Standards Board,FALSE,Economic affairs,1/7/14,1/7/20
+162,Office of the Australian Information Commissioner,FALSE,General public services,1/7/14,1/7/20
+163,Office of the Commonwealth Ombudsman,FALSE,Social protection,1/7/14,1/7/20
+164,Office of the Director of Public Prosecutions,FALSE,Public order and safety,1/7/14,1/7/20
+165,Office of the Fair Work Building Industry Inspectorate,FALSE,General public services,1/7/14,1/7/18
+166,Office of the Fair Work Ombudsman,FALSE,Social protection,1/7/14,1/7/18
+167,Office of the Inspector-General of Intelligence and Security,FALSE,Public order and safety,1/7/14,1/7/20
+168,Office of the Official Secretary to the Governor-General,FALSE,General public services,1/7/14,1/7/20
+169,Outback Stores Pty Ltd,FALSE,General public services,1/7/14,1/7/20
+170,Private Health Insurance Administration Council,FALSE,Health,1/7/14,1/7/19
+171,Private Health Insurance Ombudsman,FALSE,Social protection,1/7/14,1/7/19
+172,Productivity Commission,FALSE,General public services,1/7/14,1/7/20
+173,Professional Services Review,FALSE,General public services,1/7/14,1/7/20
+174,RAAF Welfare Recreational Company,FALSE,Defence,1/7/14,1/7/20
+175,Regional Investment Corporation,FALSE,General public services,1/7/16,1/7/20
+176,Royal Australian Air Force Veterans Residences Trust Fund,FALSE,Defence,1/7/14,1/7/20
+177,Royal Australian Air Force Welfare Trust Fund,FALSE,Defence,1/7/14,1/7/20
+178,Royal Australian Navy Central Canteens Board,FALSE,Defence,1/7/14,1/7/20
+179,Royal Australian Navy Relief Trust Fund,FALSE,Defence,1/7/14,1/7/20
+180,Rural Industries Research and Development Corporation,FALSE,General public services,1/7/14,1/7/20
+181,Safe Work Australia,FALSE,Social protection,1/7/14,1/7/20
+182,Screen Australia,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+183,"Seafarers Safety, Rehabilitation and Compensation Authority",FALSE,General public services,1/7/14,1/7/20
+184,Special Broadcasting Service Corporation,FALSE,General public services,1/7/14,1/7/20
+185,Sydney Harbour Federation Trust,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+186,Telecommunications Universal Service Management Agency,FALSE,General public services,1/7/14,1/7/16
+187,Tertiary Education Quality and Standards Agency,FALSE,Education,1/7/14,1/7/20
+188,Torres Strait Regional Authority,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+189,Tourism Australia,FALSE,"Recreation, culture, and religion",1/7/14,1/7/20
+190,Wine Australia,FALSE,Economic affairs,1/7/16,1/7/20
+191,Workplace Gender Equality Agency,FALSE,Social protection,1/7/14,1/7/20
